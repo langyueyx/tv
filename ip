@@ -1,0 +1,267 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="CHC电影" tvg-language="Chinese" tvg-logo="" group-title="电影",CHC电影
+http://gxdl-lhs.8866.org:85/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="电影_547" tvg-language="Chinese" tvg-logo="" group-title="电影",电影_547
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+#EXTINF:-1 tvg-id="" tvg-name="电影_369" tvg-language="Chinese" tvg-logo="" group-title="电影",电影_369
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影台61" tvg-language="Chinese" tvg-logo="" group-title="电影",电影台61
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=76101626
+#EXTINF:-1 tvg-id="" tvg-name="SYFY 电影" tvg-language="Chinese" tvg-logo="" group-title="电影",SYFY 电影
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="龍祥電影" tvg-language="Chinese" tvg-logo="" group-title="电影",龍祥電影
+http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 tvg-id="" tvg-name="龍祥電影" tvg-language="Chinese" tvg-logo="" group-title="电影",龍祥電影
+http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 tvg-id="" tvg-name="美亞電影" tvg-language="Chinese" tvg-logo="" group-title="电影",美亞電影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+#EXTINF:-1 tvg-id="" tvg-name="星卫电影" tvg-language="Chinese" tvg-logo="" group-title="电影",星卫电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-language="Chinese" tvg-logo="" group-title="电影",凤凰电影
+http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="星卫电影" tvg-language="Chinese" tvg-logo="" group-title="电影",星卫电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 tvg-id="" tvg-name="有线电影" tvg-language="Chinese" tvg-logo="" group-title="电影",有线电影
+http://gxdl-lhs.8866.org:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="东森电影" tvg-language="Chinese" tvg-logo="" group-title="电影",东森电影
+http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影19" tvg-language="Chinese" tvg-logo="" group-title="电影",斗鱼电影19
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-id="" tvg-name="鬥魚電影18" tvg-language="Chinese" tvg-logo="" group-title="电影",鬥魚電影18
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.flv?wsAuth=2413f01fb8568523b11a1fd79a98f906&token=cpn-androidmpro-0-3637778-8c089871434b93440d1eca0ac992619a50d6485ebb31150f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影19" tvg-language="Chinese" tvg-logo="" group-title="电影",斗鱼电影19
+http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影02" tvg-language="Chinese" tvg-logo="" group-title="电影",斗鱼电影02
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 tvg-id="" tvg-name="鬥魚電影17" tvg-language="Chinese" tvg-logo="" group-title="电影",鬥魚電影17
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=2c62d811e93588aa66814782abe3b461&token=cpn-androidmpro-0-3637778-8c089871434b93447a78d2f674fb31d653131d81233ba6c5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-id="" tvg-name="好莱坞电影" tvg-language="Chinese" tvg-logo="" group-title="电影",好莱坞电影
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+#EXTINF:-1 tvg-id="" tvg-name="星卫电影台" tvg-language="Chinese" tvg-logo="" group-title="电影",星卫电影台
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-language="Chinese" tvg-logo="" group-title="电影",CHC动作电影
+http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="星卫HD电影台" tvg-language="Chinese" tvg-logo="" group-title="电影",星卫HD电影台
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+#EXTINF:-1 tvg-id="" tvg-name="顶级欧美电影" tvg-language="Chinese" tvg-logo="" group-title="电影",顶级欧美电影
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+#EXTINF:-1 tvg-id="" tvg-name="电影台54[800x600]" tvg-language="Chinese" tvg-logo="" group-title="电影",电影台54[800x600]
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26623173
+#EXTINF:-1 tvg-id="" tvg-name="电影台62[800x600]" tvg-language="Chinese" tvg-logo="" group-title="电影",电影台62[800x600]
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24921161
+#EXTINF:-1 tvg-id="" tvg-name="电影台63[800x600]" tvg-language="Chinese" tvg-logo="" group-title="电影",电影台63[800x600]
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=34229877
+#EXTINF:-1 tvg-id="" tvg-name="电影台64[800x600]" tvg-language="Chinese" tvg-logo="" group-title="电影",电影台64[800x600]
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227
+#EXTINF:-1 tvg-id="" tvg-name="电影沈腾周星驰" tvg-language="Chinese" tvg-logo="" group-title="电影",电影沈腾周星驰
+http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门莲花 [电影]" tvg-language="Chinese" tvg-logo="" group-title="电影",澳门莲花 [电影]
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YY電影-歐美科幻" tvg-language="Chinese" tvg-logo="" group-title="电影",YY電影-歐美科幻
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
+#EXTINF:-1 tvg-id="" tvg-name="好莱坞电影 中字" tvg-language="Chinese" tvg-logo="" group-title="电影",好莱坞电影 中字
+http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影 (1080p)" tvg-language="Chinese" tvg-logo="" group-title="电影",NewTV超级电影 (1080p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影 (1080p)" tvg-language="Chinese" tvg-logo="" group-title="电影",NewTV超级电影 (1080p)
+https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美国mytime 电影频道" tvg-language="Chinese" tvg-logo="" group-title="电影",美国mytime 电影频道
+https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-id="" tvg-name="「电影」熊出没?过年" tvg-language="Chinese" tvg-logo="" group-title="电影",「电影」熊出没?过年
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美国mytime 电影频道[1920*1080]" tvg-language="Chinese" tvg-logo="" group-title="电影",美国mytime 电影频道[1920*1080]
+https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
+#EXTINF:-1 tvg-id="" tvg-name="午夜影院" tvg-language="Chinese" tvg-logo="" group-title="电影",午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 tvg-id="" tvg-name="家庭影院" tvg-language="Chinese" tvg-logo="" group-title="电影",家庭影院
+http://gxdl-lhs.8866.org:85/tsfile/live/1056_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-language="Chinese" tvg-logo="" group-title="电影",CHC家庭影院
+http://111.20.40.166/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽影院" tvg-language="Chinese" tvg-logo="" group-title="电影",安徽影院
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="滨海影院" tvg-language="Chinese" tvg-logo="" group-title="电影",滨海影院
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-language="Chinese" tvg-logo="" group-title="电影",CHC家庭影院
+http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC 家庭影院" tvg-language="Chinese" tvg-logo="" group-title="电影",CHC 家庭影院
+http://jltpc.x3322.net:9901/tsfile/live/1016_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="南通影院娱乐" tvg-language="Chinese" tvg-logo="" group-title="电影",南通影院娱乐
+http://cm.wshls.homecdn.com/live/7cc5.m3u8?zjiangsd
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科影院" tvg-language="Chinese" tvg-logo="" group-title="电影",浙江教科影院
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科影院" tvg-language="Chinese" tvg-logo="" group-title="电影",浙江教科影院
+http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科影院" tvg-language="Chinese" tvg-logo="" group-title="电影",浙江教科影院
+http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="南通影院娱乐" tvg-language="Chinese" tvg-logo="" group-title="电影",南通影院娱乐
+http://cm.wshls.homecdn.com/live/7cc5.flv?zjiangsd
+#EXTINF:-1 tvg-id="" tvg-name="欧美大片" tvg-language="Chinese" tvg-logo="" group-title="电影",欧美大片
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-id="" tvg-name="「轮播」蓝光大片" tvg-language="Chinese" tvg-logo="" group-title="电影",「轮播」蓝光大片
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+#EXTINF:-1 tvg-id="" tvg-name="4K剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",4K剧场
+http://bp-caster.bestv.com.cn/513/1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",风云剧场
+http://jltpc.x3322.net:9901/tsfile/live/1034_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",CCTV风云剧场
+http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",CCTV怀旧剧场
+http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",第一剧场
+http://jltpc.x3322.net:9901/tsfile/live/1025_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",怀旧剧场
+http://jltpc.x3322.net:9901/tsfile/live/1026_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",怀旧剧场
+http://gmxw.7766.org:808/hls/92/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",风云剧场
+http://gmxw.7766.org:808/hls/95/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",怀旧剧场
+http://gxdl-lhs.8866.org:85/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",风云剧场
+http://gxdl-lhs.8866.org:85/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",第一剧场
+http://gxdl-lhs.8866.org:85/tsfile/live/1108_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",怀旧剧场
+http://113.117.74.28:8081/hls/118/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",风云剧场
+http://113.117.74.28:8081/hls/120/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-language="Chinese" tvg-logo="" group-title="电视剧",第一剧场
+http://113.117.74.28:8081/hls/121/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="电视剧轮播" tvg-language="Chinese" tvg-logo="" group-title="电视剧",电视剧轮播
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453059740
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",深圳电视剧
+http://113.117.74.28:8081/hls/69/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",深圳电视剧
+http://gxdl-lhs.8866.org:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8-电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",CCTV8-电视剧
+http://218.17.196.234:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",CCTV-8电视剧
+http://219.140.56.34:3333/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",深圳电视剧
+http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8 电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",CCTV-8 电视剧
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-08电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",CCTV-08电视剧
+http://222.240.82.92:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="昌黎电视剧_183" tvg-language="Chinese" tvg-logo="" group-title="电视剧",昌黎电视剧_183
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧频道" tvg-language="Chinese" tvg-logo="" group-title="电视剧",深圳电视剧频道
+http://gmxw.7766.org:808/hls/141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北|武汉电视剧" tvg-language="Chinese" tvg-logo="" group-title="电视剧",河北|武汉电视剧
+http://stream.appwuhan.com/2tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="怀旧音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",怀旧音乐
+http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="番薯音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",番薯音乐
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",风云音乐
+http://gxdl-lhs.8866.org:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="GoodTV 经典音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",GoodTV 经典音乐
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOODTV经典音乐河" tvg-language="Chinese" tvg-logo="" group-title="音乐",GOODTV经典音乐河
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="鬥魚直播-T-ARA音樂" tvg-language="Chinese" tvg-logo="" group-title="音乐",鬥魚直播-T-ARA音樂
+http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 tvg-id="" tvg-name="GOOD TV CH29 經典音樂" tvg-language="Chinese" tvg-logo="" group-title="音乐",GOOD TV CH29 經典音樂
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="80后音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",80后音乐
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",风云音乐
+http://jltpc.x3322.net:9901/tsfile/live/1032_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",风云音乐
+http://gmxw.7766.org:808/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",风云音乐
+http://113.117.74.28:8081/hls/117/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="音乐之声" tvg-language="Chinese" tvg-logo="" group-title="音乐",音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民谣音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",民谣音乐
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潮流音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",潮流音乐
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动感音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",动感音乐
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="乌·M2音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",乌·M2音乐
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15-音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV15-音乐
+http://218.17.196.234:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV-15音乐
+http://222.175.159.226:808/hls/202316/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV-15音乐
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV-15音乐
+http://219.140.56.34:3333/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-15 音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV-15 音乐
+https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="80后音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",80后音乐台
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="80後音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",80後音樂台
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW Rock 音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",NOW Rock 音乐
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民谣音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="心灵音乐馆" tvg-language="Chinese" tvg-logo="" group-title="音乐",心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="芒果音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",芒果音乐台
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+#EXTINF:-1 tvg-id="" tvg-name="格莱美音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",格莱美音乐
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNR音乐之声" tvg-language="Chinese" tvg-logo="" group-title="音乐",CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="老歌音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",老歌音乐台
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="怀集音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",怀集音乐台
+http://live.xmcdn.com:80/live/966/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潮流音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",潮流音乐台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="清晨音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",清晨音乐台
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高清音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",高清音乐台
+http://live.xmcdn.com:80/live/1427/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动感音乐台" tvg-language="Chinese" tvg-logo="" group-title="音乐",动感音乐台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cnr经典音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",cnr经典音乐
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="懷集音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",懷集音樂台
+http://live.xmcdn.com:80/live/966/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潮流音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",潮流音樂台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="清晨音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",清晨音樂台
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="動感音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",動感音樂台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高清音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",高清音樂台
+http://live.xmcdn.com:80/live/1427/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="老歌音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",老歌音樂台
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民謠音樂台" tvg-language="Chinese" tvg-logo="" group-title="音乐",民謠音樂台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="心靈音樂館" tvg-language="Chinese" tvg-logo="" group-title="音乐",心靈音樂館
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cnr經典音樂" tvg-language="Chinese" tvg-logo="" group-title="音乐",cnr經典音樂
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNR音乐之声" tvg-language="Chinese" tvg-logo="" group-title="音乐",CNR音乐之声
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV风云音乐
+http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV风云音乐
+http://111.20.40.165/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV风云音乐
+http://111.20.40.163/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV风云音乐
+http://111.20.40.164/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV风云音乐
+http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV風雲音樂" tvg-language="Chinese" tvg-logo="" group-title="音乐",CCTV風雲音樂
+http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="「轮播」经典小品" tvg-language="Chinese" tvg-logo="" group-title="小品相声",「轮播」经典小品
+http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 tvg-id="" tvg-name="小品_543" tvg-language="Chinese" tvg-logo="" group-title="小品相声",小品_543
+http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 tvg-id="" tvg-name="鬥魚直播-開心麻花經典小品" tvg-language="Chinese" tvg-logo="" group-title="小品相声",鬥魚直播-開心麻花經典小品
+http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼直播-开心麻花经典小品" tvg-language="Chinese" tvg-logo="" group-title="小品相声",斗鱼直播-开心麻花经典小品
+http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 tvg-id="" tvg-name="百视通-相声有新人" tvg-language="Chinese" tvg-logo="" group-title="小品相声",百视通-相声有新人
+http://bp-caster.bestv.com.cn/512/1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="百視通-相聲有新人" tvg-language="Chinese" tvg-logo="" group-title="小品相声",百視通-相聲有新人
+http://bp-caster.bestv.com.cn/512/1/video.m3u8
