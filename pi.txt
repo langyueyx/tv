@@ -1,4 +1,620 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV1
+http://cfss.cc/api/ysp/cctv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV1
+http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV1
+http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8?icpid=651&from=38&hms_devid=2232&online=1687246054&vqe=3
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV1
+http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+http://cfss.cc/ds/bst.php?id=Cf-2
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+http://cfss.cc/api/ysp/cctv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+http://jltpc.x3322.net:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+http://gmxw.7766.org:808/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+http://58.220.219.14:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+http://122.224.153.162:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+http://gxdl-lhs.8866.org:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://cfss.cc/api/ysp/cctv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://111.20.40.166/PLTV/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://jltpc.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://gmxw.7766.org:808/hls/91/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://122.224.153.162:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+http://gxdl-lhs.8866.org:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4
+http://cfss.cc/api/ysp/cctv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4
+http://58.220.219.14:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4
+http://111.20.40.164/PLTV/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4
+http://jltpc.x3322.net:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4
+http://122.224.153.162:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4
+http://gxdl-lhs.8866.org:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5
+http://gxdl-lhs.8866.org:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5
+http://jltpc.x3322.net:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5
+http://gmxw.7766.org:808/hls/93/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5
+http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV6
+http://cfss.cc/api/ysp/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV6
+http://58.220.219.14:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV6
+http://jltpc.x3322.net:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV6
+http://gmxw.7766.org:808/hls/94/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV6
+http://122.224.153.162:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV6
+http://gxdl-lhs.8866.org:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+http://cfss.cc/api/ysp/cctv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+http://jltpc.x3322.net:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+http://gmxw.7766.org:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+http://58.220.219.14:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+http://122.224.153.162:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+http://gxdl-lhs.8866.org:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV8
+http://cfss.cc/api/ysp/cctv8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV8
+http://jltpc.x3322.net:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV8
+http://gmxw.7766.org:808/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV8
+http://58.220.219.14:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV8
+http://122.224.153.162:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV8
+http://gxdl-lhs.8866.org:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+http://cfss.cc/api/ysp/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+http://gmxw.7766.org:808/hls/27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+http://jltpc.x3322.net:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+http://cfss.cc/ds/bst.php?id=Cf-10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+http://58.220.219.14:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+http://122.224.153.162:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+http://gxdl-lhs.8866.org:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV10
+http://cfss.cc/api/ysp/cctv10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV10
+http://jltpc.x3322.net:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV10
+http://gmxw.7766.org:808/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV10
+http://58.220.219.14:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV10
+http://122.224.153.162:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV10
+http://gxdl-lhs.8866.org:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+http://cfss.cc/api/ysp/cctv11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+http://jltpc.x3322.net:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+http://gmxw.7766.org:808/hls/29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+http://58.220.219.14:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+http://122.224.153.162:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+http://gxdl-lhs.8866.org:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV12
+http://cfss.cc/api/ysp/cctv12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV12
+http://cfss.cc/ds/bst.php?id=Cf-13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV12
+http://jltpc.x3322.net:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV12
+http://58.220.219.14:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV12
+http://122.224.153.162:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV12
+http://gxdl-lhs.8866.org:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+http://cfss.cc/api/ysp/cctv13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+http://cfss.cc/ds/bst.php?id=Cf-14
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+http://jltpc.x3322.net:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+http://gmxw.7766.org:808/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+http://58.220.219.14:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV14
+http://jltpc.x3322.net:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV14
+http://gmxw.7766.org:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV14
+http://58.220.219.14:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV14
+http://122.224.153.162:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV14
+http://gxdl-lhs.8866.org:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV15
+http://jltpc.x3322.net:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV15
+http://58.220.219.14:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV15
+http://122.224.153.162:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV17
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV17
+http://jltpc.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV17
+http://gmxw.7766.org:808/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV17
+http://gxdl-lhs.8866.org:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV17
+http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="" group-title="央视",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="" group-title="央视",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4K
+http://cfss.cc/api/ysp/cctv4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山东卫视
+http://jltpc.x3322.net:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山东卫视
+http://gmxw.7766.org:808/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山东卫视
+http://58.220.219.14:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山东卫视
+http://122.224.153.162:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山东卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",北京卫视
+http://cfss.cc/api/ysp/bjws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",北京卫视
+http://jltpc.x3322.net:9901/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",北京卫视
+http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",北京卫视
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",北京卫视
+http://122.224.153.162:9901/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",北京卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",天津卫视
+http://jltpc.x3322.net:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",天津卫视
+http://gmxw.7766.org:808/hls/42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",天津卫视
+http://58.220.219.14:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",天津卫视
+http://122.224.153.162:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",天津卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",天津卫视
+http://218.17.196.234:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖南卫视
+http://jltpc.x3322.net:9901/tsfile/live/0117_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖南卫视
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖南卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖南卫视
+http://gmxw.7766.org:808/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖南卫视
+http://58.220.219.14:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖南卫视
+http://122.224.153.162:9901/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://cfss.cc/api/ysp/zjws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://jltpc.x3322.net:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://58.220.219.14:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",浙江卫视
+http://122.224.153.162:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江苏卫视
+http://jltpc.x3322.net:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江苏卫视
+http://gmxw.7766.org:808/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江苏卫视
+http://58.220.219.14:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江苏卫视
+http://122.224.153.162:9901/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://cfss.cc/api/ysp/dfws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://jltpc.x3322.net:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://gmxw.7766.org:808/hls/114/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东方卫视
+http://58.220.219.14:9901/tsfile/live/0107_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",安徽卫视
+http://jltpc.x3322.net:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",安徽卫视
+http://gmxw.7766.org:808/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",安徽卫视
+http://58.220.219.14:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",安徽卫视
+http://122.224.153.162:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",安徽卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广东卫视
+http://cfss.cc/api/ysp/gdws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广东卫视
+http://jltpc.x3322.net:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广东卫视
+http://gmxw.7766.org:808/hls/80/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广东卫视
+http://58.220.219.14:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广东卫视
+http://122.224.153.162:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广东卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",深圳卫视
+http://jltpc.x3322.net:9901/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",深圳卫视
+http://gmxw.7766.org:808/hls/45/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",深圳卫视
+http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",深圳卫视
+http://122.224.153.162:9901/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",深圳卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",辽宁卫视
+http://jltpc.x3322.net:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",辽宁卫视
+http://58.220.219.14:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",辽宁卫视
+http://122.224.153.162:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",辽宁卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",辽宁卫视
+http://218.17.196.234:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",重庆卫视
+http://jltpc.x3322.net:9901/tsfile/live/0142_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",重庆卫视
+http://58.220.219.14:9901/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",重庆卫视
+http://122.224.153.162:9901/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",重庆卫视
+http://218.17.196.234:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东南卫视
+http://jltpc.x3322.net:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东南卫视
+http://gmxw.7766.org:808/hls/55/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东南卫视
+http://58.220.219.14:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东南卫视
+http://122.224.153.162:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东南卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",东南卫视
+http://222.175.159.226:808/hls/202350/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",甘肃卫视
+http://jltpc.x3322.net:9901/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",甘肃卫视
+http://gmxw.7766.org:808/hls/119/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",甘肃卫视
+http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",甘肃卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",甘肃卫视
+http://218.17.196.234:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",甘肃卫视
+http://222.175.159.226:808/hls/202369/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广西卫视
+http://jltpc.x3322.net:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广西卫视
+http://gmxw.7766.org:808/hls/56/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广西卫视
+http://58.220.219.14:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广西卫视
+http://122.224.153.162:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广西卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",广西卫视
+http://218.17.196.234:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",贵州卫视
+http://jltpc.x3322.net:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",贵州卫视
+http://gmxw.7766.org:808/hls/49/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",贵州卫视
+http://58.220.219.14:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",贵州卫视
+http://122.224.153.162:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",贵州卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",贵州卫视
+http://218.17.196.234:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://jltpc.x3322.net:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://gmxw.7766.org:808/hls/54/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://58.220.219.14:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://122.224.153.162:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://218.17.196.234:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河北卫视
+http://222.175.159.226:808/hls/202357/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",黑龙江卫视
+http://122.224.153.162:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",黑龙江卫视
+http://jltpc.x3322.net:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",黑龙江卫视
+http://gmxw.7766.org:808/hls/48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",黑龙江卫视
+http://58.220.219.14:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",黑龙江卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",黑龙江卫视
+http://218.17.196.234:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河南卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河南卫视
+http://jltpc.x3322.net:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河南卫视
+http://gmxw.7766.org:808/hls/51/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河南卫视
+http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河南卫视
+http://122.224.153.162:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河南卫视
+http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",河南卫视
+http://218.17.196.234:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖北卫视
+http://58.220.219.14:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖北卫视
+http://jltpc.x3322.net:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖北卫视
+http://gmxw.7766.org:808/hls/46/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖北卫视
+http://122.224.153.162:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖北卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",湖北卫视
+http://218.17.196.234:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江西卫视
+http://jltpc.x3322.net:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江西卫视
+http://gmxw.7766.org:808/hls/44/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江西卫视
+http://58.220.219.14:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江西卫视
+http://122.224.153.162:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江西卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",江西卫视
+http://218.17.196.234:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视
+http://jltpc.x3322.net:9901/tsfile/live/0116_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视
+http://gmxw.7766.org:808/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视
+http://58.220.219.14:9901/tsfile/live/0116_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视
+http://122.224.153.162:9901/tsfile/live/0116_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",吉林卫视
+http://218.17.196.234:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",内蒙古卫视
+http://222.175.159.226:808/hls/202366/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",内蒙古卫视
+http://jltpc.x3322.net:9901/tsfile/live/0109_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",内蒙古卫视
+http://gmxw.7766.org:808/hls/60/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",内蒙古卫视
+http://218.17.196.234:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",内蒙古卫视
+http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",宁夏卫视
+http://jltpc.x3322.net:9901/tsfile/live/0112_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",宁夏卫视
+http://122.224.153.162:9901/tsfile/live/0112_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",宁夏卫视
+http://gmxw.7766.org:808/hls/106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",宁夏卫视
+http://58.220.219.14:9901/tsfile/live/0112_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",宁夏卫视
+http://222.175.159.226:808/hls/202367/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",宁夏卫视
+http://222.71.90.218:8888/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山西卫视
+http://218.17.196.234:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山西卫视
+http://jltpc.x3322.net:9901/tsfile/live/0118_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山西卫视
+http://gmxw.7766.org:808/hls/59/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山西卫视
+http://58.220.219.14:9901/tsfile/live/0118_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山西卫视
+http://122.224.153.162:9901/tsfile/live/0118_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",山西卫视
+http://222.175.159.226:808/hls/202364/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://jltpc.x3322.net:9901/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://gmxw.7766.org:808/hls/58/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://58.220.219.14:9901/tsfile/live/0120_7.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://122.224.153.162:9901/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://218.17.196.234:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://222.175.159.226:808/hls/202365/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",陕西卫视
+http://113.117.74.28:8081/hls/109/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://218.17.196.234:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://jltpc.x3322.net:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://gmxw.7766.org:808/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://58.220.219.14:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://122.224.153.162:9901/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",四川卫视
+http://222.175.159.226:808/hls/202359/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://jltpc.x3322.net:9901/tsfile/live/0110_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://222.175.159.226:808/hls/202368/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://113.117.74.28:8081/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://113.117.74.28:8081/hls/104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",新疆卫视
+http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",云南卫视
+http://jltpc.x3322.net:9901/tsfile/live/0119_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",云南卫视
+http://gmxw.7766.org:808/hls/52/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",云南卫视
+http://58.220.219.14:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",云南卫视
+http://122.224.153.162:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",云南卫视
+http://gxdl-lhs.8866.org:85/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",云南卫视
+http://222.175.159.226:808/hls/202360/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",青海卫视
+http://stream.qhbtv.com/qhws/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",青海卫视
+http://jltpc.x3322.net:9901/tsfile/live/0140_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",青海卫视
+http://218.17.196.234:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",青海卫视
+http://222.175.159.226:808/hls/202370/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",青海卫视
+https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",兵团卫视
+http://jltpc.x3322.net:9901/tsfile/live/0115_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",兵团卫视
+http://gmxw.7766.org:808/hls/7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",兵团卫视
+http://122.224.153.162:9901/tsfile/live/0115_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",兵团卫视
+http://113.117.74.28:8081/hls/102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",西藏卫视
+http://jltpc.x3322.net:9901/tsfile/live/0111_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",西藏卫视
+http://gmxw.7766.org:808/hls/64/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",西藏卫视
+http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",西藏卫视
+http://221.2.36.34:8888/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-language="Chinese" tvg-logo="" group-title="省台",西藏卫视
+http://222.175.159.226:808/hls/202371/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-language="Chinese" tvg-logo="" group-title="港澳台",翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-language="Chinese" tvg-logo="" group-title="港澳台",翡翠台
+https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-language="Chinese" tvg-logo="" group-title="港澳台",翡翠台
+https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-language="Chinese" tvg-logo="" group-title="港澳台",无线新闻
+https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://113.117.74.26:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://113.117.74.12:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰中文
+http://113.117.74.18:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰资讯
+http://113.117.74.18:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰资讯
+http://113.117.74.28:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-language="Chinese" tvg-logo="" group-title="港澳台",凤凰资讯
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="教育动画",金鹰卡通
+http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="教育动画",金鹰卡通
+http://gxdl-lhs.8866.org:85/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="教育动画",金鹰卡通
+http://gmxw.7766.org:808/hls/69/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="教育动画",金鹰卡通
+http://122.224.153.162:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="教育动画",金鹰卡通
+http://218.19.13.245:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC电影" tvg-language="Chinese" tvg-logo="" group-title="电影",CHC电影
 http://gxdl-lhs.8866.org:85/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="电影_547" tvg-language="Chinese" tvg-logo="" group-title="电影",电影_547
