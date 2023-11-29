@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV1,https://cfyy.cc/ds/ysp/qp.php?id=cctv1&Cf.m3u8
 CCTV1,https://cfyy.vip/ds/ysp/qp.php?id=cctv1&Cf.m3u8
 CCTV1,https://cfss.vip/ds/ysp/qp.php?id=cctv1&Cf.m3u8
@@ -103,6 +104,7 @@ CCTV12,https://cfyy.cc/ds/hrtn/qp.php?id=cctv12&Cf.m3u8
 CCTV12,https://cfyy.vip/ds/hrtn/qp.php?id=cctv12&Cf.m3u8
 CCTV12,https://cfss.vip/ds/hrtn/qp.php?id=cctv12&Cf.m3u8
 CCTV12,https://cfss.cc/ds/hrtn/qp.php?id=cctv12&Cf.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://cfyy.cc/ds/ysp/qp.php?id=cctv13&Cf.m3u8
 CCTV13,https://cfyy.vip/ds/ysp/qp.php?id=cctv13&Cf.m3u8
 CCTV13,https://cfss.vip/ds/ysp/qp.php?id=cctv13&Cf.m3u8

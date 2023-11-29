@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV 1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV 1,https://epg.pw/stream/7ebb694adb77ddce07e2e86bb8a1f444f05d1e1920b3f8a54e0c17e5f2fc702a.m3u8
 CCTV 1,https://epg.pw/stream/a4f6e6163319cb6ad59892a54343f514a9ff20917af903f2ee1818e005f43202.m3u8
 CCTV 1,https://epg.pw/stream/149d9ac1b6234f41c3e61634bbcb0508dee05c6abcb3d3d0486431e52151e0d0.m3u8
@@ -56,6 +57,7 @@ CCTV 10,https://epg.pw/stream/475b0e2420d753f5bc4fc0e649c983e89506272dc54784ef2c
 CCTV 10,https://epg.pw/stream/702a248005dd0225d8ed1dfb970e3a9bf4c3c41c0369865e4844b6130b4ff0d0.m3u8
 CCTV 11,https://epg.pw/stream/469d1a55e8234c672e7ed47a336aa1ccb5f5aec618a0f24641ba38ec746a3161.m3u8
 CCTV 12,https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
+CCTV 13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV 13,https://epg.pw/stream/8d8f5970c3388f0b49026ce8ed37a9ab37e33a9d29b7dd4152a05c1332ccc78b.m3u8
 CCTV 13,https://epg.pw/stream/10b3d0ac8dd56e98c3db8646259e46579fbb75fb439c34415d9273c39ee4a1b4.m3u8
 CCTV 13,https://epg.pw/stream/07952f63247aa716fb5f7f3e586827ea8c4e4fc6560cf1ca546e849859213ad1.m3u8
