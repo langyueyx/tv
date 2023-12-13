@@ -326,43 +326,41 @@ https://cfss.vip/api/ysp/zjws.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
 https://cfss.cc/api/ysp/zjws.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 超级综艺" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 超级综艺
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 超级电影" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 超级电影
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235755/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 超级电视剧" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 超级电视剧
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235788/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 炫舞未来" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 炫舞未来
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235764/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 潮妈辣婆" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 潮妈辣婆
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236059/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 农业致富" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 农业致富
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236147/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 精品纪录" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 精品纪录
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236204/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 精品大剧" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 精品大剧
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236205/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 动作电影" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 动作电影
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236207/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 怡伴健康" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 怡伴健康
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236209/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 海外剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 海外剧场
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236211/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 古装剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 古装剧场
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236213/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 军事评论" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 军事评论
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236210/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 家庭剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 家庭剧场
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236206/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 军旅剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 军旅剧场
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236212/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 中国功夫" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 中国功夫
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236214/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 爱情喜剧" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 爱情喜剧
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236215/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 武搏世界" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 武搏世界
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 精品体育" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 精品体育
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NewTV 超级体育" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV 超级体育
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 爱情喜剧" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 爱情喜剧
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236215/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 超级电影" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 超级电影
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 超级体育" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 超级体育
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 超级综艺" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 超级综艺
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 潮妈辣婆" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 潮妈辣婆
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236059/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 动作电影" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 动作电影
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236207/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 古装剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 古装剧场
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236213/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 海外剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 海外剧场
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236211/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 家庭剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 家庭剧场
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236206/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 精品大剧" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 精品大剧
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236205/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 精品纪录" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 精品纪录
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236204/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 精品体育" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 精品体育
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 军旅剧场" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 军旅剧场
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236212/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 军事评论" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 军事评论
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236210/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 农业致富" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 农业致富
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236147/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 武搏世界" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 武搏世界
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 炫舞未来" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 炫舞未来
+http://111.13.111.242/000000001000PLTV/88888888/224/3221235764/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 怡伴健康" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 怡伴健康
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236209/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV 中国功夫" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NEWTV 中国功夫
+http://111.13.111.242/000000001000PLTV/88888888/224/3221236214/1.m3u8?HlsProfileId=
