@@ -1,5 +1,4 @@
 央视,#genre#
-CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV1,https://cfyy.cc/api/ysp/cctv1.m3u8
 CCTV1,https://cfyy.vip/api/ysp/cctv1.m3u8
 CCTV1,https://cfss.vip/api/ysp/cctv1.m3u8
