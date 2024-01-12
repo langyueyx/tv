@@ -59,7 +59,6 @@ CCTV  4K,https://cfyy.cc/ds/ysp/qp.php?id=cctv4k&key=24513&Cf.m3u8
 CCTV  8K,https://cfyy.cc/ds/ysp/qp.php?id=cctv8k&key=24513&Cf.m3u8
 CCTV 16  4K,https://cfyy.cc/ds/ysp/qp.php?id=cctv164k&key=24513&Cf.m3u8
 CGTN CF,https://cfyy.cc/ds/ysp/qp.php?id=cgtn&key=24513&Cf.m3u8
-CGTN 纪录,https://cfyy.cc/ds/ysp/qp.php?id=cgtnjl&key=24513&Cf.m3u8
 CGTN 西语,https://cfyy.cc/ds/ysp/qp.php?id=cgtne&key=24513&Cf.m3u8
 CGTN 法语,https://cfyy.cc/ds/ysp/qp.php?id=cgtnf&key=24513&Cf.m3u8
 CGTN 阿语,https://cfyy.cc/ds/ysp/qp.php?id=cgtna&key=24513&Cf.m3u8
