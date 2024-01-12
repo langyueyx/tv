@@ -25,6 +25,8 @@ https://cfyy.cc/ds/ysp/qp.php?id=cctv11&key=24513&Cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
 https://cfyy.cc/ds/ysp/qp.php?id=cctv12&key=24513&Cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
 https://cfyy.cc/ds/ysp/qp.php?id=cctv13&key=24513&Cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
 https://cfyy.cc/ds/ysp/qp.php?id=cctv14&key=24513&Cf.m3u8

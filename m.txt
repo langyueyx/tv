@@ -12,6 +12,7 @@ CCTV 9,https://cfyy.cc/ds/ysp/qp.php?id=cctv9&key=24513&Cf.m3u8
 CCTV 10,https://cfyy.cc/ds/ysp/qp.php?id=cctv10&key=24513&Cf.m3u8
 CCTV 11,https://cfyy.cc/ds/ysp/qp.php?id=cctv11&key=24513&Cf.m3u8
 CCTV 12,https://cfyy.cc/ds/ysp/qp.php?id=cctv12&key=24513&Cf.m3u8
+CCTV 13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV 13,https://cfyy.cc/ds/ysp/qp.php?id=cctv13&key=24513&Cf.m3u8
 CCTV 14,https://cfyy.cc/ds/ysp/qp.php?id=cctv14&key=24513&Cf.m3u8
 CCTV 15,https://cfyy.cc/ds/ysp/qp.php?id=cctv15&key=24513&Cf.m3u8
