@@ -1,79 +1,65 @@
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 https://cfyy.cc/ds/ysp/qp.php?id=cctv1&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV2
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
 https://cfyy.cc/ds/ysp/qp.php?id=cctv2&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV3
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
 https://cfyy.cc/ds/ysp/qp.php?id=cctv3&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 https://cfyy.cc/ds/ysp/qp.php?id=cctv4&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 https://cfyy.cc/ds/ysp/qp.php?id=cctv5&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
 https://cfyy.cc/ds/ysp/qp.php?id=cctv5p&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV6
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 https://cfyy.cc/ds/ysp/qp.php?id=cctv6&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV7
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
 https://cfyy.cc/ds/ysp/qp.php?id=cctv7&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 https://cfyy.cc/ds/ysp/qp.php?id=cctv8&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV9
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 https://cfyy.cc/ds/ysp/qp.php?id=cctv9&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
 https://cfyy.cc/ds/ysp/qp.php?id=cctv10&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
 https://cfyy.cc/ds/ysp/qp.php?id=cctv11&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV12
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
 https://cfyy.cc/ds/ysp/qp.php?id=cctv12&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
 https://cfyy.cc/ds/ysp/qp.php?id=cctv13&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
 https://cfyy.cc/ds/ysp/qp.php?id=cctv14&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV15
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 15
 https://cfyy.cc/ds/ysp/qp.php?id=cctv15&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV16
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 16" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 16
 https://cfyy.cc/ds/ysp/qp.php?id=cctv16&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV17
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 17
 https://cfyy.cc/ds/ysp/qp.php?id=cctv17&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV兵器科技" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV兵器科技
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 兵器科技" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 兵器科技
 https://cfyy.cc/ds/ysp/qp.php?id=bqkj&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV第一剧场" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV第一剧场
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 第一剧场" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 第一剧场
 https://cfyy.cc/ds/ysp/qp.php?id=dyjc&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 怀旧剧场" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 怀旧剧场
 https://cfyy.cc/ds/ysp/qp.php?id=hjjc&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV风云剧场
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 风云剧场" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 风云剧场
 https://cfyy.cc/ds/ysp/qp.php?id=fyjc&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV风云音乐
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 风云音乐" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 风云音乐
 https://cfyy.cc/ds/ysp/qp.php?id=fyyy&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV风云足球" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV风云足球
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 风云足球" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 风云足球
 https://cfyy.cc/ds/ysp/qp.php?id=fyzq&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV电视指南
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 电视指南" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 电视指南
 https://cfyy.cc/ds/ysp/qp.php?id=dszn&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV女性时尚
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 女性时尚" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 女性时尚
 https://cfyy.cc/ds/ysp/qp.php?id=nxss&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV央视文化" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV央视文化
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 央视文化" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 央视文化
 https://cfyy.cc/ds/ysp/qp.php?id=whjp&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV世界地理" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV世界地理
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 世界地理" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 世界地理
 https://cfyy.cc/ds/ysp/qp.php?id=sjdl&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV央视台球" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV央视台球
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 央视台球" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 央视台球
 https://cfyy.cc/ds/ysp/qp.php?id=ystq&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV卫生健康" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV卫生健康
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 卫生健康" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 卫生健康
 https://cfyy.cc/ds/ysp/qp.php?id=wsjk&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV高尔夫网球" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 高尔夫网球" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 高尔夫网球
 https://cfyy.cc/ds/ysp/qp.php?id=gefwq&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTNCF" tvg-language="Chinese" tvg-logo="" group-title="卫视",CGTNCF
-https://cfyy.cc/ds/ysp/qp.php?id=cgtn&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-language="Chinese" tvg-logo="" group-title="卫视",CGTN纪录
-https://cfyy.cc/ds/ysp/qp.php?id=cgtnjl&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-language="Chinese" tvg-logo="" group-title="卫视",CGTN西语
-https://cfyy.cc/ds/ysp/qp.php?id=cgtne&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-language="Chinese" tvg-logo="" group-title="卫视",CGTN法语
-https://cfyy.cc/ds/ysp/qp.php?id=cgtnf&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-language="Chinese" tvg-logo="" group-title="卫视",CGTN阿语
-https://cfyy.cc/ds/ysp/qp.php?id=cgtna&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-language="Chinese" tvg-logo="" group-title="卫视",CGTN俄语
-https://cfyy.cc/ds/ysp/qp.php?id=cgtnr&key=24513&Cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 https://cfyy.cc/ds/ysp/qp.php?id=scws&key=24513&Cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
@@ -120,9 +106,21 @@ https://cfyy.cc/ds/ysp/qp.php?id=hnws&key=24513&Cf.m3u8
 https://cfyy.cc/ds/ysp/qp.php?id=hinws&key=24513&Cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
 https://cfyy.cc/ds/ysp/qp.php?id=hljws&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4K" tvg-language="Chinese" tvg-logo="" group-title="4K",CCTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV  4K" tvg-language="Chinese" tvg-logo="" group-title="其它",CCTV  4K
 https://cfyy.cc/ds/ysp/qp.php?id=cctv4k&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8K" tvg-language="Chinese" tvg-logo="" group-title="4K",CCTV 8K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV  8K" tvg-language="Chinese" tvg-logo="" group-title="其它",CCTV  8K
 https://cfyy.cc/ds/ysp/qp.php?id=cctv8k&key=24513&Cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16 4K" tvg-language="Chinese" tvg-logo="" group-title="4K",CCTV16 4K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 16  4K" tvg-language="Chinese" tvg-logo="" group-title="其它",CCTV 16  4K
 https://cfyy.cc/ds/ysp/qp.php?id=cctv164k&key=24513&Cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN CF" tvg-language="Chinese" tvg-logo="" group-title="其它",CGTN CF
+https://cfyy.cc/ds/ysp/qp.php?id=cgtn&key=24513&Cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN 纪录" tvg-language="Chinese" tvg-logo="" group-title="其它",CGTN 纪录
+https://cfyy.cc/ds/ysp/qp.php?id=cgtnjl&key=24513&Cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN 西语" tvg-language="Chinese" tvg-logo="" group-title="其它",CGTN 西语
+https://cfyy.cc/ds/ysp/qp.php?id=cgtne&key=24513&Cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN 法语" tvg-language="Chinese" tvg-logo="" group-title="其它",CGTN 法语
+https://cfyy.cc/ds/ysp/qp.php?id=cgtnf&key=24513&Cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN 阿语" tvg-language="Chinese" tvg-logo="" group-title="其它",CGTN 阿语
+https://cfyy.cc/ds/ysp/qp.php?id=cgtna&key=24513&Cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN 俄语" tvg-language="Chinese" tvg-logo="" group-title="其它",CGTN 俄语
+https://cfyy.cc/ds/ysp/qp.php?id=cgtnr&key=24513&Cf.m3u8
