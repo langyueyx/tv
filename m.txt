@@ -55,12 +55,12 @@ CCTV 高尔夫网球,https://cfyy.cc/ds/ysp/qp.php?id=gefwq&key=24513&Cf.m3u8
 海南卫视,https://cfyy.cc/ds/ysp/qp.php?id=hinws&key=24513&Cf.m3u8
 黑龙江卫视,https://cfyy.cc/ds/ysp/qp.php?id=hljws&key=24513&Cf.m3u8
 其它,#genre#
-CCTV  4K,https://cfyy.cc/ds/ysp/qp.php?id=cctv4k&key=24513&Cf.m3u8
-CCTV  8K,https://cfyy.cc/ds/ysp/qp.php?id=cctv8k&key=24513&Cf.m3u8
-CCTV 16  4K,https://cfyy.cc/ds/ysp/qp.php?id=cctv164k&key=24513&Cf.m3u8
-CGTN CF,https://cfyy.cc/ds/ysp/qp.php?id=cgtn&key=24513&Cf.m3u8
-CGTN 纪录,https://cfyy.cc/ds/ysp/qp.php?id=cgtnjl&key=24513&Cf.m3u8
-CGTN 西语,https://cfyy.cc/ds/ysp/qp.php?id=cgtne&key=24513&Cf.m3u8
-CGTN 法语,https://cfyy.cc/ds/ysp/qp.php?id=cgtnf&key=24513&Cf.m3u8
-CGTN 阿语,https://cfyy.cc/ds/ysp/qp.php?id=cgtna&key=24513&Cf.m3u8
-CGTN 俄语,https://cfyy.cc/ds/ysp/qp.php?id=cgtnr&key=24513&Cf.m3u8
+CCTV 4K,https://cfyy.cc/ds/ysp/qp.php?id=cctv4k&key=24513&Cf.m3u8
+CCTV 8K,https://cfyy.cc/ds/ysp/qp.php?id=cctv8k&key=24513&Cf.m3u8
+CCTV 16 4K,https://cfyy.cc/ds/ysp/qp.php?id=cctv164k&key=24513&Cf.m3u8
+CGTNCF,https://cfyy.cc/ds/ysp/qp.php?id=cgtn&key=24513&Cf.m3u8
+CGTN纪录,https://cfyy.cc/ds/ysp/qp.php?id=cgtnjl&key=24513&Cf.m3u8
+CGTN西语,https://cfyy.cc/ds/ysp/qp.php?id=cgtne&key=24513&Cf.m3u8
+CGTN法语,https://cfyy.cc/ds/ysp/qp.php?id=cgtnf&key=24513&Cf.m3u8
+CGTN阿语,https://cfyy.cc/ds/ysp/qp.php?id=cgtna&key=24513&Cf.m3u8
+CGTN俄语,https://cfyy.cc/ds/ysp/qp.php?id=cgtnr&key=24513&Cf.m3u8
