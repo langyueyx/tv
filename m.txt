@@ -1,9 +1,4 @@
 央视,#genre#
-CCTV,http://121.24.98.228:8090/hls/24/index.m3u8
-CCTV,http://121.24.98.235:8090/hls/24/index.m3u8
-CCTV,http://121.24.98.35:8090/hls/24/index.m3u8
-CCTV,http://121.24.98.125:8090/hls/24/index.m3u8
-CCTV,http://121.24.98.205:8090/hls/24/index.m3u8
 CCTV 1,http://121.24.98.235:8090/hls/9/index.m3u8
 CCTV 1,http://121.24.98.125:8090/hls/9/index.m3u8
 CCTV 1,http://121.24.98.228:8090/hls/9/index.m3u8
@@ -16,9 +11,11 @@ CCTV 1,http://61.52.157.104:808/hls/1/index.m3u8
 CCTV 1,http://61.52.157.121:808/hls/1/index.m3u8
 CCTV 1,http://113.231.98.189:8818/hls/1/index.m3u8
 CCTV 1,http://124.165.251.82:9999/tsfile/live/0001_1.m3u8
+CCTV 1,http://110.72.81.200:808/hls/54/index.m3u8
 CCTV 1,http://113.239.88.150:8818/hls/1/index.m3u8
 CCTV 1,http://110.7.128.212:8096/tsfile/live/0001_1.m3u8
 CCTV 1,http://36.249.150.135:9901/tsfile/live/0001_1.m3u8
+CCTV 1,http://110.72.81.167:808/hls/54/index.m3u8
 CCTV 1,http://121.24.98.205:8090/hls/9/index.m3u8
 CCTV 1,http://110.7.128.195:8096/tsfile/live/0001_1.m3u8
 CCTV 1,http://110.7.128.198:8096/tsfile/live/0001_1.m3u8
@@ -280,16 +277,20 @@ CCTV 15,http://113.239.88.150:8818/hls/12/index.m3u8
 CCTV 15,http://113.231.98.189:8818/hls/12/index.m3u8
 CCTV 15,http://121.24.98.205:8090/hls/23/index.m3u8
 CCTV 17,http://121.24.98.228:8090/hls/15/index.m3u8
+CCTV 17,http://121.24.98.228:8090/hls/24/index.m3u8
 CCTV 17,http://121.24.98.235:8090/hls/15/index.m3u8
+CCTV 17,http://121.24.98.235:8090/hls/24/index.m3u8
 CCTV 17,http://113.57.21.233:8666/tsfile/live/0019_1.m3u8
 CCTV 17,http://121.24.98.35:8090/hls/15/index.m3u8
+CCTV 17,http://121.24.98.35:8090/hls/24/index.m3u8
 CCTV 17,http://121.24.98.125:8090/hls/15/index.m3u8
+CCTV 17,http://121.24.98.125:8090/hls/24/index.m3u8
 CCTV 17,http://113.239.91.161:8818/hls/13/index.m3u8
 CCTV 17,http://42.176.182.11:8818/hls/13/index.m3u8
 CCTV 17,http://113.239.88.150:8818/hls/13/index.m3u8
 CCTV 17,http://113.231.98.189:8818/hls/13/index.m3u8
 CCTV 17,http://121.24.98.205:8090/hls/15/index.m3u8
-CCTV NEWS,http://113.57.21.233:8666/tsfile/live/1002_1.m3u8
+CCTV 17,http://121.24.98.205:8090/hls/24/index.m3u8
 卫视,#genre#
 安徽卫视,http://121.24.98.228:8090/hls/81/index.m3u8
 安徽卫视,http://121.24.98.235:8090/hls/81/index.m3u8
@@ -620,13 +621,7 @@ CCTV NEWS,http://113.57.21.233:8666/tsfile/live/1002_1.m3u8
 浙江卫视,http://113.231.98.189:8818/hls/27/index.m3u8
 浙江卫视,http://58.19.13.92:9901/tsfile/live/1020_1.m3u8
 浙江卫视,http://121.24.98.205:8090/hls/79/index.m3u8
-其它,#genre#
-4K超清,http://123.118.60.109:9901/tsfile/live/1002_1.m3u8
-CETV-1,http://121.24.98.228:8090/hls/67/index.m3u8
-CETV-1,http://121.24.98.235:8090/hls/67/index.m3u8
-CETV-1,http://121.24.98.35:8090/hls/67/index.m3u8
-CETV-1,http://121.24.98.125:8090/hls/67/index.m3u8
-CETV-1,http://121.24.98.205:8090/hls/67/index.m3u8
+IPTV,#genre#
 CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 CHC高清电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
 CHC家庭影院,http://58.19.13.92:9901/tsfile/live/1036_1.m3u8
@@ -655,6 +650,23 @@ NEWTV武博世界,http://113.9.161.31:88/hls/151/index.m3u8
 NEWTV炫舞未来,http://113.9.161.31:88/hls/153/index.m3u8
 NEWTV怡伴健康,http://113.9.161.31:88/hls/149/index.m3u8
 NEWTV中国功夫,http://113.9.161.31:88/hls/152/index.m3u8
+电视剧,http://113.57.21.233:8666/tsfile/live/1020_1.m3u8
+电视剧频道,http://222.137.229.221:808/hls/21/index.m3u8
+电视剧频道,http://61.52.157.104:808/hls/21/index.m3u8
+电视剧频道,http://61.52.157.121:808/hls/21/index.m3u8
+电影1,http://113.9.161.31:88/hls/154/index.m3u8
+电影2,http://113.9.161.31:88/hls/155/index.m3u8
+美国大片,http://222.137.229.221:808/hls/66/index.m3u8
+美国大片,http://61.52.157.104:808/hls/66/index.m3u8
+美国大片,http://61.52.157.121:808/hls/66/index.m3u8
+其它,#genre#
+4K超清,http://123.118.60.109:9901/tsfile/live/1002_1.m3u8
+CCTV NEWS,http://113.57.21.233:8666/tsfile/live/1002_1.m3u8
+CETV-1,http://121.24.98.228:8090/hls/67/index.m3u8
+CETV-1,http://121.24.98.235:8090/hls/67/index.m3u8
+CETV-1,http://121.24.98.35:8090/hls/67/index.m3u8
+CETV-1,http://121.24.98.125:8090/hls/67/index.m3u8
+CETV-1,http://121.24.98.205:8090/hls/67/index.m3u8
 北京卫视财经,http://123.118.60.109:9901/tsfile/live/1001_1.m3u8
 北京卫视科教,http://123.118.60.109:9901/tsfile/live/0018_1.m3u8
 北京卫视生活,http://123.118.60.109:9901/tsfile/live/1003_1.m3u8
@@ -665,12 +677,6 @@ NEWTV中国功夫,http://113.9.161.31:88/hls/152/index.m3u8
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 大丰公共频道,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
 大丰新闻综合,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-电视剧,http://113.57.21.233:8666/tsfile/live/1020_1.m3u8
-电视剧频道,http://222.137.229.221:808/hls/21/index.m3u8
-电视剧频道,http://61.52.157.104:808/hls/21/index.m3u8
-电视剧频道,http://61.52.157.121:808/hls/21/index.m3u8
-电影1,http://113.9.161.31:88/hls/154/index.m3u8
-电影2,http://113.9.161.31:88/hls/155/index.m3u8
 第一剧场,http://58.19.13.92:9901/tsfile/live/1035_1.m3u8
 法治频道,http://222.137.229.221:808/hls/20/index.m3u8
 法治频道,http://61.52.157.104:808/hls/20/index.m3u8
@@ -774,20 +780,12 @@ NEWTV中国功夫,http://113.9.161.31:88/hls/152/index.m3u8
 龙泉新闻综,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
 吕梁二台,http://124.165.251.82:9999/tsfile/live/1002_1.m3u8
 吕梁一台,http://124.165.251.82:9999/tsfile/live/1001_1.m3u8
-美国大片,http://222.137.229.221:808/hls/66/index.m3u8
-美国大片,http://61.52.157.104:808/hls/66/index.m3u8
-美国大片,http://61.52.157.121:808/hls/66/index.m3u8
 民生频道,http://222.137.229.221:808/hls/19/index.m3u8
 民生频道,http://61.52.157.104:808/hls/19/index.m3u8
 民生频道,http://61.52.157.121:808/hls/19/index.m3u8
 密云电视,http://123.118.60.109:9901/tsfile/live/1009_1.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 衢州衢江综合F,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-三佳购物,http://121.24.98.228:8090/hls/69/index.m3u8
-三佳购物,http://121.24.98.235:8090/hls/69/index.m3u8
-三佳购物,http://121.24.98.35:8090/hls/69/index.m3u8
-三佳购物,http://121.24.98.125:8090/hls/69/index.m3u8
-三佳购物,http://121.24.98.205:8090/hls/69/index.m3u8
 上海东方,http://121.24.98.228:8090/hls/77/index.m3u8
 上海东方,http://121.24.98.235:8090/hls/77/index.m3u8
 上海东方,http://121.24.98.35:8090/hls/77/index.m3u8
@@ -818,5 +816,3 @@ NEWTV中国功夫,http://113.9.161.31:88/hls/152/index.m3u8
 中国教育,http://113.57.21.233:8666/tsfile/live/1018_1.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 足球频道,http://113.57.21.233:8666/tsfile/live/1019_1.m3u8
-﻿CCTV-1,http://110.72.81.200:808/hls/54/index.m3u8
-﻿CCTV-1,http://110.72.81.167:808/hls/54/index.m3u8
