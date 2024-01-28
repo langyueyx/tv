@@ -1,91 +1,73 @@
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://121.24.98.235:8090/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://222.137.231.41:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://121.24.98.35:8090/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://222.137.229.221:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://121.24.98.125:8090/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://42.225.145.233:8089/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://61.52.157.121:808/hls/1/index.m3u8
+http://222.137.231.41:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://61.52.157.104:808/hls/1/index.m3u8
+http://121.24.98.125:8090/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://121.24.98.228:8090/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://121.24.98.235:8090/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://222.137.229.221:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://61.52.157.104:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://123.10.78.161:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://113.57.21.233:8666/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://113.239.88.150:8818/hls/1/index.m3u8
+http://61.52.157.121:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://36.249.150.135:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://113.231.98.189:8818/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://124.165.251.82:9999/tsfile/live/0001_1.m3u8
+http://182.116.119.229:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://110.72.81.200:808/hls/54/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://42.176.182.11:8818/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.204:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.198:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.202:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.185:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://58.19.13.92:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://124.165.251.82:9999/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://113.57.150.190:9000/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://36.249.150.135:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://113.239.88.150:8818/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://110.7.128.213:8096/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.17:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.177:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.174:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.72.81.167:808/hls/54/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.200:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.211:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.29:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.161:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://110.7.128.206:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.207:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.188:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.164:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.194:8096/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://110.7.128.212:8096/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://110.7.128.159:8096/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
-http://113.57.103.216:9000/tsfile/live/0001_1.m3u8
+http://110.7.128.174:8096/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://121.24.98.19:8090/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://110.7.128.198:8096/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://110.7.128.171:8096/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://110.7.128.200:8096/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://110.7.128.159:8096/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
 http://121.24.98.205:8090/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
-http://42.225.145.233:8089/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://110.72.81.167:808/hls/54/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://110.7.128.195:8096/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 1
+http://110.7.128.188:8096/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
 http://121.24.98.228:8090/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
+http://42.225.145.233:8089/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
 http://113.57.21.233:8666/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
-http://113.239.88.150:8818/hls/2/index.m3u8
+http://123.10.78.161:808/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
 http://121.24.98.35:8090/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
@@ -93,153 +75,101 @@ http://121.24.98.125:8090/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
 http://121.24.98.235:8090/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
-http://58.19.13.92:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
-http://113.231.98.189:8818/hls/2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
 http://124.165.251.82:9999/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
-http://42.176.182.11:8818/hls/2/index.m3u8
+http://58.19.13.92:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
-http://36.249.150.135:9901/tsfile/live/0002_1.m3u8
+http://113.239.88.150:8818/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
 http://113.57.150.190:9000/tsfile/live/0002_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://222.137.231.41:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
+http://113.57.103.216:9000/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 2
+http://121.24.98.19:8090/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
 http://121.24.98.228:8090/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
 http://42.225.145.233:8089/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.19.169.245:9901/tsfile/live/1028_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://113.57.21.233:8666/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://61.52.157.121:808/hls/3/index.m3u8
+http://222.137.231.41:808/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
 http://61.52.157.104:808/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://222.137.229.221:808/hls/3/index.m3u8
+http://123.10.78.161:808/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.72.81.200:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://121.24.98.235:8090/hls/11/index.m3u8
+http://113.57.21.233:8666/tsfile/live/0003_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
 http://121.24.98.35:8090/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.72.81.200:808/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://182.116.119.229:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://61.52.157.121:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
 http://121.24.98.125:8090/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.198:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://124.165.251.82:9999/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.161:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.17:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.159:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.207:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.177:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.206:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.164:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.194:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.202:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.211:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.29:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.174:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.200:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.213:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.185:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.212:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.188:8096/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://113.57.103.216:9000/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.7.128.204:8096/tsfile/live/0003_1.m3u8
+http://121.24.98.235:8090/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
 http://58.19.13.92:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
-http://110.72.81.167:808/hls/37/index.m3u8
+http://222.137.229.221:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://124.165.251.82:9999/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.200:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.17:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.171:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.206:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.212:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.198:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://113.57.150.190:9000/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.159:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.202:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 3
+http://110.7.128.174:8096/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
+http://121.24.98.235:8090/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://113.57.21.233:8666/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://121.24.98.228:8090/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://121.24.98.35:8090/hls/12/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://121.24.98.235:8090/hls/12/index.m3u8
+http://121.24.98.125:8090/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
+http://121.24.98.35:8090/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://58.19.13.92:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://113.239.88.150:8818/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://124.165.251.82:9999/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://121.24.98.125:8090/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.17:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.194:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.177:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://110.7.128.206:8096/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://110.7.128.198:8096/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.200:8096/tsfile/live/0004_1.m3u8
+http://110.7.128.171:8096/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.211:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.174:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.202:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://42.176.182.11:8818/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.159:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.29:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.164:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://113.231.98.189:8818/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.207:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.213:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.188:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.204:8096/tsfile/live/0004_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://110.7.128.212:8096/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.185:8096/tsfile/live/0004_1.m3u8
+http://110.7.128.174:8096/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://110.7.128.161:8096/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
-http://113.57.150.190:9000/tsfile/live/0004_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://222.137.231.41:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.19.169.245:9901/tsfile/live/1025_1.m3u8
+http://110.7.128.194:8096/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://42.225.145.233:8089/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://222.137.231.41:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://121.24.98.228:8090/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
@@ -247,65 +177,51 @@ http://121.24.98.235:8090/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://113.57.21.233:8666/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://61.52.157.121:808/hls/5/index.m3u8
+http://61.52.157.104:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://123.10.78.161:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://121.24.98.35:8090/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://61.52.157.104:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://222.137.229.221:808/hls/5/index.m3u8
+http://61.52.157.121:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://121.24.98.125:8090/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://222.137.229.221:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://110.72.81.200:808/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://58.19.13.92:9901/tsfile/live/1004_1.m3u8
+http://182.116.119.229:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://124.165.251.82:9999/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.17:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.198:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.177:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.194:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.206:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.202:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.164:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.159:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.207:8096/tsfile/live/0005_1.m3u8
+http://58.19.13.92:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://110.7.128.200:8096/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.211:8096/tsfile/live/0005_1.m3u8
+http://110.72.81.167:808/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.174:8096/tsfile/live/0005_1.m3u8
+http://110.7.128.206:8096/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.29:8096/tsfile/live/0005_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.161:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://36.249.150.135:9901/tsfile/live/0141_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.213:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.204:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.185:8096/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.7.128.188:8096/tsfile/live/0005_1.m3u8
+http://110.7.128.198:8096/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://110.7.128.212:8096/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://110.72.81.167:808/hls/38/index.m3u8
+http://110.7.128.171:8096/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://110.7.128.17:8096/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://110.7.128.174:8096/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://110.7.128.213:8096/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://121.24.98.19:8090/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+http://110.7.128.194:8096/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
-http://110.19.169.245:9901/tsfile/live/1037_1.m3u8
+http://123.118.60.109:9901/tsfile/live/0016_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
 http://121.24.98.228:8090/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
@@ -315,29 +231,21 @@ http://121.24.98.35:8090/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
 http://121.24.98.125:8090/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
-http://123.118.60.109:9901/tsfile/live/0016_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
 http://110.72.81.200:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
-http://113.239.88.150:8818/hls/4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
-http://58.19.13.92:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
 http://124.165.251.82:9999/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
-http://36.249.150.135:9901/tsfile/live/0016_1.m3u8
+http://58.19.13.92:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
-http://113.231.98.189:8818/hls/4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
-http://42.176.182.11:8818/hls/4/index.m3u8
+http://113.239.88.150:8818/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
 http://110.72.81.167:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://222.137.231.41:808/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.19.169.245:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
+http://121.24.98.19:8090/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://42.225.145.233:8089/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://222.137.231.41:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://121.24.98.228:8090/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
@@ -345,85 +253,67 @@ http://121.24.98.235:8090/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://113.57.21.233:8666/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://61.52.157.121:808/hls/6/index.m3u8
+http://61.52.157.104:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://123.10.78.161:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://121.24.98.35:8090/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://61.52.157.104:808/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://222.137.229.221:808/hls/6/index.m3u8
+http://61.52.157.121:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://121.24.98.125:8090/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://222.137.229.221:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://110.72.81.200:808/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://58.19.13.92:9901/tsfile/live/1005_1.m3u8
+http://182.116.119.229:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://124.165.251.82:9999/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.17:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.198:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.177:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.194:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.206:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.202:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.164:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.159:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.207:8096/tsfile/live/0006_1.m3u8
+http://58.19.13.92:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://110.7.128.200:8096/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.211:8096/tsfile/live/0006_1.m3u8
+http://110.72.81.167:808/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.174:8096/tsfile/live/0006_1.m3u8
+http://110.7.128.206:8096/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.29:8096/tsfile/live/0006_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.161:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.213:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.204:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.185:8096/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.7.128.188:8096/tsfile/live/0006_1.m3u8
+http://110.7.128.198:8096/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://110.7.128.212:8096/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
-http://110.72.81.167:808/hls/39/index.m3u8
+http://110.7.128.171:8096/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://110.7.128.17:8096/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://110.7.128.174:8096/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://110.7.128.213:8096/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://121.24.98.19:8090/hls/14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
+http://110.7.128.194:8096/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
 http://113.57.21.233:8666/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
 http://110.72.81.200:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
-http://113.239.88.150:8818/hls/5/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
 http://58.19.13.92:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
-http://124.165.251.82:9999/tsfile/live/0007_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
-http://113.231.98.189:8818/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
-http://36.249.150.135:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
-http://42.176.182.11:8818/hls/5/index.m3u8
+http://113.239.88.150:8818/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
 http://110.72.81.167:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://222.137.231.41:808/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.19.169.245:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 7
+http://113.57.150.190:9000/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://42.225.145.233:8089/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://222.137.231.41:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://121.24.98.228:8090/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
@@ -431,67 +321,53 @@ http://121.24.98.235:8090/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://113.57.21.233:8666/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://61.52.157.121:808/hls/8/index.m3u8
+http://61.52.157.104:808/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://123.10.78.161:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://121.24.98.35:8090/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://61.52.157.104:808/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://222.137.229.221:808/hls/8/index.m3u8
+http://61.52.157.121:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://121.24.98.125:8090/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://222.137.229.221:808/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://110.72.81.200:808/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://58.19.13.92:9901/tsfile/live/1007_1.m3u8
+http://182.116.119.229:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://124.165.251.82:9999/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.17:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.198:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.177:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.194:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.206:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.202:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.164:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.159:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.207:8096/tsfile/live/0008_1.m3u8
+http://58.19.13.92:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://110.7.128.200:8096/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.211:8096/tsfile/live/0008_1.m3u8
+http://110.72.81.167:808/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.174:8096/tsfile/live/0008_1.m3u8
+http://110.7.128.206:8096/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.29:8096/tsfile/live/0008_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.161:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.213:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.204:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.185:8096/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.7.128.188:8096/tsfile/live/0008_1.m3u8
+http://110.7.128.198:8096/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
 http://110.7.128.212:8096/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
-http://110.72.81.167:808/hls/40/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://222.137.231.41:808/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.19.169.245:9901/tsfile/live/1031_1.m3u8
+http://110.7.128.171:8096/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://110.7.128.17:8096/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://110.7.128.174:8096/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://110.7.128.213:8096/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://121.24.98.19:8090/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 8
+http://110.7.128.194:8096/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://42.225.145.233:8089/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://222.137.231.41:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://121.24.98.228:8090/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
@@ -499,69 +375,49 @@ http://121.24.98.235:8090/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://113.57.21.233:8666/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://61.52.157.121:808/hls/9/index.m3u8
+http://61.52.157.104:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://123.10.78.161:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://121.24.98.35:8090/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://61.52.157.104:808/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://222.137.229.221:808/hls/9/index.m3u8
+http://61.52.157.121:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://121.24.98.125:8090/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://222.137.229.221:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://110.72.81.200:808/hls/119/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://113.239.88.150:8818/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://58.19.13.92:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://124.165.251.82:9999/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.17:8096/tsfile/live/0009_1.m3u8
+http://58.19.13.92:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://113.231.98.189:8818/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.198:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://36.249.150.135:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.177:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.194:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.206:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://42.176.182.11:8818/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.202:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.164:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.159:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.207:8096/tsfile/live/0009_1.m3u8
+http://113.239.88.150:8818/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://110.7.128.200:8096/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.211:8096/tsfile/live/0009_1.m3u8
+http://110.72.81.167:808/hls/119/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.174:8096/tsfile/live/0009_1.m3u8
+http://110.7.128.206:8096/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.29:8096/tsfile/live/0009_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.161:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.213:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.204:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.185:8096/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.7.128.188:8096/tsfile/live/0009_1.m3u8
+http://110.7.128.198:8096/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
 http://110.7.128.212:8096/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
-http://110.72.81.167:808/hls/119/index.m3u8
+http://110.7.128.171:8096/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://110.7.128.17:8096/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://110.7.128.174:8096/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://110.7.128.213:8096/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://121.24.98.19:8090/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 9
+http://110.7.128.194:8096/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
 http://42.225.145.233:8089/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
@@ -575,17 +431,15 @@ http://121.24.98.35:8090/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
 http://121.24.98.125:8090/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
-http://113.239.88.150:8818/hls/7/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
 http://58.19.13.92:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
-http://124.165.251.82:9999/tsfile/live/0010_1.m3u8
+http://113.239.88.150:8818/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
-http://113.231.98.189:8818/hls/7/index.m3u8
+http://113.57.150.190:9000/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
-http://36.249.150.135:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 10
-http://42.176.182.11:8818/hls/7/index.m3u8
+http://121.24.98.19:8090/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
 http://121.24.98.228:8090/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
@@ -597,15 +451,13 @@ http://121.24.98.35:8090/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
 http://121.24.98.125:8090/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
-http://113.239.88.150:8818/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
 http://58.19.13.92:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
-http://113.231.98.189:8818/hls/8/index.m3u8
+http://113.239.88.150:8818/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
-http://36.249.150.135:9901/tsfile/live/0013_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 11
-http://42.176.182.11:8818/hls/8/index.m3u8
+http://121.24.98.19:8090/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
 http://42.225.145.233:8089/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
@@ -619,17 +471,15 @@ http://121.24.98.35:8090/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
 http://121.24.98.125:8090/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
-http://113.239.88.150:8818/hls/9/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
 http://58.19.13.92:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
-http://124.165.251.82:9999/tsfile/live/0012_1.m3u8
+http://113.239.88.150:8818/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
-http://113.231.98.189:8818/hls/9/index.m3u8
+http://113.57.150.190:9000/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
-http://36.249.150.135:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 12
-http://42.176.182.11:8818/hls/9/index.m3u8
+http://121.24.98.19:8090/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
@@ -641,15 +491,13 @@ http://121.24.98.35:8090/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
 http://121.24.98.125:8090/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
-http://113.239.88.150:8818/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
 http://58.19.13.92:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
-http://113.231.98.189:8818/hls/10/index.m3u8
+http://113.239.88.150:8818/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
-http://36.249.150.135:9901/tsfile/live/0015_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 13
-http://42.176.182.11:8818/hls/10/index.m3u8
+http://121.24.98.19:8090/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
 http://42.225.145.233:8089/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
@@ -663,17 +511,15 @@ http://121.24.98.35:8090/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
 http://121.24.98.125:8090/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
-http://113.239.88.150:8818/hls/11/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
 http://58.19.13.92:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
-http://124.165.251.82:9999/tsfile/live/0014_1.m3u8
+http://113.239.88.150:8818/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
-http://113.231.98.189:8818/hls/11/index.m3u8
+http://113.57.150.190:9000/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
-http://36.249.150.135:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 14
-http://42.176.182.11:8818/hls/11/index.m3u8
+http://121.24.98.19:8090/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 15
 http://121.24.98.228:8090/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 15
@@ -685,11 +531,7 @@ http://121.24.98.125:8090/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 15
 http://113.239.88.150:8818/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 15
-http://113.231.98.189:8818/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 15
-http://36.249.150.135:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 15
-http://42.176.182.11:8818/hls/12/index.m3u8
+http://121.24.98.19:8090/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 17
 http://121.24.98.228:8090/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 17
@@ -711,11 +553,11 @@ http://121.24.98.125:8090/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 17
 http://113.239.88.150:8818/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 17
-http://113.231.98.189:8818/hls/13/index.m3u8
+http://113.57.150.190:9000/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 17
-http://36.249.150.135:9901/tsfile/live/1001_1.m3u8
+http://121.24.98.19:8090/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 17
-http://42.176.182.11:8818/hls/13/index.m3u8
+http://121.24.98.19:8090/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
 http://42.225.145.233:8089/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
@@ -729,15 +571,13 @@ http://121.24.98.35:8090/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
 http://121.24.98.125:8090/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
-http://113.239.88.150:8818/hls/28/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
 http://58.19.13.92:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
-http://113.231.98.189:8818/hls/28/index.m3u8
+http://113.239.88.150:8818/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
-http://36.249.150.135:9901/tsfile/live/0130_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",安徽卫视
-http://42.176.182.11:8818/hls/28/index.m3u8
+http://121.24.98.19:8090/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
 http://42.225.145.233:8089/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
@@ -751,97 +591,69 @@ http://121.24.98.125:8090/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
 http://110.72.81.200:808/hls/1005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://113.239.88.150:8818/hls/24/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
 http://58.19.13.92:9901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://124.165.251.82:9999/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.17:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://113.231.98.189:8818/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.198:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://36.249.150.135:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.177:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.194:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.206:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://42.176.182.11:8818/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.202:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.164:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.159:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.207:8096/tsfile/live/0122_1.m3u8
+http://113.239.88.150:8818/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
 http://110.7.128.200:8096/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.211:8096/tsfile/live/0122_1.m3u8
+http://110.72.81.167:808/hls/1005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.174:8096/tsfile/live/0122_1.m3u8
+http://110.7.128.206:8096/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.29:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.161:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.213:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.204:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.185:8096/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.7.128.188:8096/tsfile/live/0122_1.m3u8
+http://110.7.128.198:8096/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
 http://110.7.128.212:8096/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
-http://110.72.81.167:808/hls/1005/index.m3u8
+http://110.7.128.171:8096/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
+http://110.7.128.17:8096/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
+http://110.7.128.174:8096/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
+http://110.7.128.213:8096/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
+http://121.24.98.19:8090/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
+http://110.7.128.194:8096/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.114:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://113.57.21.233:8666/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://121.27.126.168:8899/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://121.27.126.189:8899/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://121.27.126.51:8899/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://121.27.126.187:8899/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.144:8899/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://121.27.126.86:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.191:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://121.27.126.56:8899/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://121.27.126.184:8899/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://113.239.88.150:8818/hls/34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.199:8899/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
+http://121.27.126.168:8899/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
+http://121.27.126.51:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.64:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.146:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://124.165.251.82:9999/tsfile/live/0142_1.m3u8
+http://121.27.126.187:8899/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
+http://121.27.126.86:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.174:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://113.231.98.189:8818/hls/34/index.m3u8
+http://121.27.126.56:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://36.249.150.135:9901/tsfile/live/0142_1.m3u8
+http://121.27.126.184:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
-http://42.176.182.11:8818/hls/34/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0142_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
+http://113.239.88.150:8818/hls/34/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
+http://121.27.126.189:8899/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
+http://113.57.150.190:9000/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://121.27.126.192:8899/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
@@ -851,17 +663,11 @@ http://42.225.145.233:8089/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
 http://110.72.81.200:808/hls/1004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
-http://113.239.88.150:8818/hls/25/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0107_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
 http://58.19.13.92:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
-http://124.165.251.82:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
-http://113.231.98.189:8818/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
-http://36.249.150.135:9901/tsfile/live/0107_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
-http://42.176.182.11:8818/hls/25/index.m3u8
+http://113.239.88.150:8818/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东方卫视
 http://110.72.81.167:808/hls/1004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
@@ -875,69 +681,71 @@ http://121.24.98.35:8090/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
 http://121.24.98.125:8090/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
-http://113.239.88.150:8818/hls/40/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0129_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
 http://58.19.13.92:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
-http://124.165.251.82:9999/tsfile/live/0129_1.m3u8
+http://113.239.88.150:8818/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
-http://113.231.98.189:8818/hls/40/index.m3u8
+http://113.57.150.190:9000/tsfile/live/0137_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
-http://36.249.150.135:9901/tsfile/live/0137_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",东南卫视
-http://42.176.182.11:8818/hls/40/index.m3u8
+http://121.24.98.19:8090/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
 http://121.24.98.228:8090/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
+http://121.24.98.235:8090/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
 http://113.57.21.233:8666/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
+http://121.24.98.35:8090/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
+http://121.24.98.125:8090/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
 http://110.72.81.200:808/hls/1002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
-http://58.19.13.92:9901/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
 http://124.165.251.82:9999/tsfile/live/0125_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
+http://58.19.13.92:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
 http://110.72.81.167:808/hls/1002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
+http://113.57.150.190:9000/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广东卫视
+http://121.24.98.19:8090/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://121.27.126.114:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
+http://121.27.126.86:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
+http://121.27.126.168:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
+http://121.27.126.191:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
+http://121.27.126.144:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
+http://121.27.126.64:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
+http://121.27.126.51:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
+http://121.27.126.56:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://121.27.126.184:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://121.27.126.187:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.144:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.191:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.168:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.51:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.64:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.86:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.56:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.189:8899/hls/35/index.m3u8
+http://121.27.126.199:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://110.72.81.200:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://110.72.81.200:808/hls/1001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://113.239.88.150:8818/hls/42/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.199:8899/hls/35/index.m3u8
+http://121.27.126.174:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://121.27.126.146:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://121.27.126.174:8899/hls/35/index.m3u8
+http://121.27.126.189:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://113.231.98.189:8818/hls/42/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://36.249.150.135:9901/tsfile/live/0113_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
-http://42.176.182.11:8818/hls/42/index.m3u8
+http://113.239.88.150:8818/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://110.72.81.167:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
@@ -946,8 +754,6 @@ http://110.72.81.167:808/hls/1001/index.m3u8
 http://121.27.126.192:8899/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",广西卫视
 http://121.27.126.103:8899/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.19.169.245:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
 http://121.24.98.228:8090/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
@@ -959,55 +765,31 @@ http://121.24.98.35:8090/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
 http://121.24.98.125:8090/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://113.239.88.150:8818/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
 http://58.19.13.92:9901/tsfile/live/1030_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.17:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://113.231.98.189:8818/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.198:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.177:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.194:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.206:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://42.176.182.11:8818/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.202:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.164:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.159:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.207:8096/tsfile/live/0120_1.m3u8
+http://113.239.88.150:8818/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
 http://110.7.128.200:8096/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.211:8096/tsfile/live/0120_1.m3u8
+http://110.7.128.206:8096/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
+http://113.57.150.190:9000/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
+http://110.7.128.198:8096/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
+http://110.7.128.212:8096/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
+http://110.7.128.171:8096/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
+http://110.7.128.17:8096/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
 http://110.7.128.174:8096/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.29:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.161:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
 http://110.7.128.213:8096/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.204:8096/tsfile/live/0120_1.m3u8
+http://121.24.98.19:8090/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.185:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.188:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",贵州卫视
-http://110.7.128.212:8096/tsfile/live/0120_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",海南卫视
-http://36.249.150.135:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",海峡卫视
-http://36.249.150.135:9901/tsfile/live/0150_1.m3u8
+http://110.7.128.194:8096/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河北卫视
 http://121.24.98.228:8090/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河北卫视
@@ -1019,7 +801,7 @@ http://121.24.98.125:8090/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河北卫视
 http://124.165.251.82:9999/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河北卫视
-http://36.249.150.135:9901/tsfile/live/0117_1.m3u8
+http://121.24.98.19:8090/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
 http://42.225.145.233:8089/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
@@ -1033,107 +815,93 @@ http://121.24.98.35:8090/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
 http://121.24.98.125:8090/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
-http://113.239.88.150:8818/hls/39/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
 http://124.165.251.82:9999/tsfile/live/0143_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
-http://113.231.98.189:8818/hls/39/index.m3u8
+http://113.239.88.150:8818/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
-http://36.249.150.135:9901/tsfile/live/0143_1.m3u8
+http://113.57.150.190:9000/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",黑龙江卫视
-http://42.176.182.11:8818/hls/39/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://222.137.231.41:808/hls/16/index.m3u8
+http://121.24.98.19:8090/hls/42/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
 http://42.225.145.233:8089/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
+http://222.137.231.41:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
 http://121.24.98.228:8090/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
 http://121.24.98.235:8090/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://61.52.157.121:808/hls/16/index.m3u8
+http://61.52.157.104:808/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
+http://123.10.78.161:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
 http://121.24.98.35:8090/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://61.52.157.104:808/hls/16/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://222.137.229.221:808/hls/16/index.m3u8
+http://61.52.157.121:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
 http://121.24.98.125:8090/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://113.239.88.150:8818/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://58.19.13.92:9901/tsfile/live/1026_1.m3u8
+http://222.137.229.221:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
 http://124.165.251.82:9999/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://113.231.98.189:8818/hls/36/index.m3u8
+http://58.19.13.92:9901/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://36.249.150.135:9901/tsfile/live/0139_1.m3u8
+http://113.239.88.150:8818/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",河南卫视
-http://42.176.182.11:8818/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://222.137.231.41:808/hls/47/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.19.169.245:9901/tsfile/live/1040_1.m3u8
+http://121.24.98.19:8090/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://42.225.145.233:8089/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://222.137.231.41:808/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://121.24.98.228:8090/hls/57/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://121.24.98.235:8090/hls/57/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://113.57.21.233:8666/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://61.52.157.104:808/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://121.24.98.35:8090/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://61.52.157.121:808/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://61.52.157.104:808/hls/47/index.m3u8
+http://121.24.98.125:8090/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://222.137.229.221:808/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://110.72.81.200:808/hls/1010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://58.19.13.92:9901/tsfile/live/1015_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://124.165.251.82:9999/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.17:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.198:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://36.249.150.135:9901/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.177:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.194:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.206:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.202:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.164:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.159:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.207:8096/tsfile/live/0132_1.m3u8
+http://58.19.13.92:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://110.7.128.200:8096/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.211:8096/tsfile/live/0132_1.m3u8
+http://110.72.81.167:808/hls/1010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.174:8096/tsfile/live/0132_1.m3u8
+http://110.7.128.206:8096/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.29:8096/tsfile/live/0132_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.161:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.213:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.204:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.185:8096/tsfile/live/0132_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.7.128.188:8096/tsfile/live/0132_1.m3u8
+http://110.7.128.198:8096/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
 http://110.7.128.212:8096/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
-http://110.72.81.167:808/hls/1010/index.m3u8
+http://110.7.128.171:8096/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://110.7.128.17:8096/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://110.7.128.174:8096/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://110.7.128.213:8096/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://121.24.98.19:8090/hls/57/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖北卫视
+http://110.7.128.194:8096/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
+http://123.118.60.109:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
 http://42.225.145.233:8089/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
@@ -1143,29 +911,27 @@ http://121.24.98.235:8090/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
 http://113.57.21.233:8666/tsfile/live/0128_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
+http://123.10.78.161:808/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
 http://121.24.98.35:8090/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
 http://121.24.98.125:8090/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
-http://123.118.60.109:9901/tsfile/live/1006_1.m3u8
+http://27.45.234.161:2024/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
 http://110.72.81.200:808/hls/1003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
-http://113.239.88.150:8818/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
-http://27.45.234.161:2024/hls/19/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0128_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
 http://58.19.13.92:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
-http://124.165.251.82:9999/tsfile/live/0128_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
-http://113.231.98.189:8818/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
-http://36.249.150.135:9901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
-http://42.176.182.11:8818/hls/31/index.m3u8
+http://113.239.88.150:8818/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
 http://110.72.81.167:808/hls/1003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
+http://113.57.150.190:9000/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",湖南卫视
+http://121.24.98.19:8090/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
 http://42.225.145.233:8089/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
@@ -1175,27 +941,27 @@ http://121.24.98.235:8090/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
 http://113.57.21.233:8666/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
+http://123.10.78.161:808/hls/71/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
 http://121.24.98.35:8090/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
 http://121.24.98.125:8090/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
-http://110.72.81.200:808/hls/1007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
-http://113.239.88.150:8818/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
 http://27.45.234.161:2024/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
-http://58.19.13.92:9901/tsfile/live/1019_1.m3u8
+http://110.72.81.200:808/hls/1007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
 http://124.165.251.82:9999/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
-http://113.231.98.189:8818/hls/26/index.m3u8
+http://58.19.13.92:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
-http://36.249.150.135:9901/tsfile/live/0127_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
-http://42.176.182.11:8818/hls/26/index.m3u8
+http://113.239.88.150:8818/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
 http://110.72.81.167:808/hls/1007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
+http://113.57.150.190:9000/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江苏卫视
+http://121.24.98.19:8090/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
 http://121.24.98.228:8090/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
@@ -1207,17 +973,15 @@ http://121.24.98.35:8090/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
 http://121.24.98.125:8090/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
-http://113.239.88.150:8818/hls/33/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
 http://58.19.13.92:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
-http://124.165.251.82:9999/tsfile/live/0138_1.m3u8
+http://113.239.88.150:8818/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
-http://113.231.98.189:8818/hls/33/index.m3u8
+http://113.57.150.190:9000/tsfile/live/0138_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
-http://36.249.150.135:9901/tsfile/live/0138_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",江西卫视
-http://42.176.182.11:8818/hls/33/index.m3u8
+http://121.24.98.19:8090/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",吉林卫视
 http://121.24.98.228:8090/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",吉林卫视
@@ -1227,13 +991,11 @@ http://121.24.98.35:8090/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",吉林卫视
 http://121.24.98.125:8090/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",吉林卫视
-http://113.239.88.150:8818/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",吉林卫视
 http://124.165.251.82:9999/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",吉林卫视
-http://113.231.98.189:8818/hls/38/index.m3u8
+http://113.239.88.150:8818/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",吉林卫视
-http://42.176.182.11:8818/hls/38/index.m3u8
+http://121.24.98.19:8090/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
 http://121.24.98.228:8090/hls/59/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
@@ -1247,59 +1009,37 @@ http://121.24.98.125:8090/hls/59/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
 http://58.19.13.92:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.17:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.198:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://36.249.150.135:9901/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.177:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.194:8096/tsfile/live/0121_1.m3u8
+http://110.7.128.200:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
 http://110.7.128.206:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.202:8096/tsfile/live/0121_1.m3u8
+http://113.57.150.190:9000/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.164:8096/tsfile/live/0121_1.m3u8
+http://110.7.128.198:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.159:8096/tsfile/live/0121_1.m3u8
+http://110.7.128.212:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.207:8096/tsfile/live/0121_1.m3u8
+http://110.7.128.171:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.200:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.211:8096/tsfile/live/0121_1.m3u8
+http://110.7.128.17:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
 http://110.7.128.174:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.29:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.161:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
 http://110.7.128.213:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.204:8096/tsfile/live/0121_1.m3u8
+http://121.24.98.19:8090/hls/59/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.185:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.188:8096/tsfile/live/0121_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",辽宁卫视
-http://110.7.128.212:8096/tsfile/live/0121_1.m3u8
+http://110.7.128.194:8096/tsfile/live/0121_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",旅游卫视
 http://113.57.21.233:8666/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",旅游卫视
 http://110.72.81.200:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",旅游卫视
 http://110.72.81.167:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",旅游卫视
+http://113.57.150.190:9000/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",青海卫视
 http://113.239.88.150:8818/hls/45/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",青海卫视
-http://113.231.98.189:8818/hls/45/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",青海卫视
-http://36.249.150.135:9901/tsfile/live/0140_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",青海卫视
-http://42.176.182.11:8818/hls/45/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
 http://42.225.145.233:8089/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
@@ -1313,23 +1053,21 @@ http://121.24.98.125:8090/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
 http://110.72.81.200:808/hls/1011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
-http://58.19.13.92:9901/tsfile/live/1025_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
 http://124.165.251.82:9999/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
-http://36.249.150.135:9901/tsfile/live/0131_1.m3u8
+http://58.19.13.92:9901/tsfile/live/1025_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
 http://110.72.81.167:808/hls/1011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
+http://121.24.98.19:8090/hls/39/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",上海卫视
 http://113.57.21.233:8666/tsfile/live/0107_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山西卫视
-http://113.239.88.150:8818/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",上海卫视
+http://113.57.150.190:9000/tsfile/live/0107_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山西卫视
 http://124.165.251.82:9999/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山西卫视
-http://113.231.98.189:8818/hls/30/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山西卫视
-http://42.176.182.11:8818/hls/30/index.m3u8
+http://113.239.88.150:8818/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",陕西卫视
 http://121.24.98.228:8090/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",陕西卫视
@@ -1338,6 +1076,8 @@ http://121.24.98.235:8090/hls/86/index.m3u8
 http://121.24.98.35:8090/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",陕西卫视
 http://121.24.98.125:8090/hls/86/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",陕西卫视
+http://121.24.98.19:8090/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
 http://42.225.145.233:8089/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
@@ -1351,13 +1091,15 @@ http://121.24.98.125:8090/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
 http://110.72.81.200:808/hls/1008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
-http://58.19.13.92:9901/tsfile/live/1023_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
 http://124.165.251.82:9999/tsfile/live/0126_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
+http://58.19.13.92:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
 http://110.72.81.167:808/hls/1008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",深圳卫视
+http://121.24.98.19:8090/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
-http://121.27.126.56:8899/hls/31/index.m3u8
+http://121.27.126.114:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.144:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
@@ -1365,13 +1107,13 @@ http://121.27.126.64:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.51:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
-http://121.27.126.114:8899/hls/31/index.m3u8
+http://121.27.126.187:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.184:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
-http://121.27.126.86:8899/hls/31/index.m3u8
+http://121.27.126.56:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
-http://121.27.126.187:8899/hls/31/index.m3u8
+http://121.27.126.86:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.191:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
@@ -1379,15 +1121,13 @@ http://121.27.126.168:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.199:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
+http://121.27.126.174:8899/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://124.165.251.82:9999/tsfile/live/0123_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.146:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.189:8899/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
-http://121.27.126.174:8899/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
-http://36.249.150.135:9901/tsfile/live/0123_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
 http://121.27.126.192:8899/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",四川卫视
@@ -1403,31 +1143,21 @@ http://121.24.98.125:8090/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
 http://110.72.81.200:808/hls/1009/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
-http://113.239.88.150:8818/hls/37/index.m3u8
+http://124.165.251.82:9999/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
 http://58.19.13.92:9901/tsfile/live/1024_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
-http://124.165.251.82:9999/tsfile/live/0135_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
-http://113.231.98.189:8818/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
-http://36.249.150.135:9901/tsfile/live/0135_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
-http://42.176.182.11:8818/hls/37/index.m3u8
+http://113.239.88.150:8818/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
 http://110.72.81.167:808/hls/1009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",天津卫视
+http://121.24.98.19:8090/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",厦门卫视
 http://113.239.88.150:8818/hls/56/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",厦门卫视
-http://113.231.98.189:8818/hls/56/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",厦门卫视
-http://42.176.182.11:8818/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",香港卫视
 http://110.72.81.200:808/hls/333/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",香港卫视
 http://110.72.81.167:808/hls/333/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",云南卫视
-http://36.249.150.135:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
 http://42.225.145.233:8089/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
@@ -1441,23 +1171,23 @@ http://121.24.98.35:8090/hls/79/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
 http://121.24.98.125:8090/hls/79/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
-http://110.72.81.200:808/hls/1006/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
-http://113.239.88.150:8818/hls/27/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
 http://27.45.234.161:2024/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
-http://58.19.13.92:9901/tsfile/live/1020_1.m3u8
+http://110.72.81.200:808/hls/1006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
+http://182.116.119.229:808/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
 http://124.165.251.82:9999/tsfile/live/0124_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
-http://113.231.98.189:8818/hls/27/index.m3u8
+http://58.19.13.92:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
-http://36.249.150.135:9901/tsfile/live/0124_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
-http://42.176.182.11:8818/hls/27/index.m3u8
+http://113.239.88.150:8818/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
 http://110.72.81.167:808/hls/1006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
+http://113.57.150.190:9000/tsfile/live/0124_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
+http://121.24.98.19:8090/hls/79/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-language="Chinese" tvg-logo="" group-title="IPTV",CHC动作电影
 http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-language="Chinese" tvg-logo="" group-title="IPTV",CHC高清电影
@@ -1524,12 +1254,14 @@ http://113.9.161.31:88/hls/149/index.m3u8
 http://113.9.161.31:88/hls/152/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电视剧" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电视剧
 http://113.57.21.233:8666/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="电视剧" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电视剧
+http://113.57.150.190:9000/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电视剧频道" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电视剧频道
 http://222.137.231.41:808/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电视剧频道" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电视剧频道
-http://61.52.157.121:808/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="电视剧频道" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电视剧频道
 http://61.52.157.104:808/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="电视剧频道" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电视剧频道
+http://61.52.157.121:808/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电视剧频道" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电视剧频道
 http://222.137.229.221:808/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电影1" tvg-language="Chinese" tvg-logo="" group-title="IPTV",电影1
@@ -1539,15 +1271,17 @@ http://113.9.161.31:88/hls/155/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美国大片" tvg-language="Chinese" tvg-logo="" group-title="IPTV",美国大片
 http://222.137.231.41:808/hls/66/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美国大片" tvg-language="Chinese" tvg-logo="" group-title="IPTV",美国大片
-http://61.52.157.121:808/hls/66/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美国大片" tvg-language="Chinese" tvg-logo="" group-title="IPTV",美国大片
 http://61.52.157.104:808/hls/66/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美国大片" tvg-language="Chinese" tvg-logo="" group-title="IPTV",美国大片
+http://61.52.157.121:808/hls/66/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美国大片" tvg-language="Chinese" tvg-logo="" group-title="IPTV",美国大片
 http://222.137.229.221:808/hls/66/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K超清" tvg-language="Chinese" tvg-logo="" group-title="其它",4K超清
 http://123.118.60.109:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV NEWS" tvg-language="Chinese" tvg-logo="" group-title="其它",CCTV NEWS
 http://113.57.21.233:8666/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV NEWS" tvg-language="Chinese" tvg-logo="" group-title="其它",CCTV NEWS
+http://113.57.150.190:9000/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-language="Chinese" tvg-logo="" group-title="其它",CETV-1
 http://121.24.98.228:8090/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-language="Chinese" tvg-logo="" group-title="其它",CETV-1
@@ -1556,6 +1290,8 @@ http://121.24.98.235:8090/hls/67/index.m3u8
 http://121.24.98.35:8090/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-language="Chinese" tvg-logo="" group-title="其它",CETV-1
 http://121.24.98.125:8090/hls/67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-language="Chinese" tvg-logo="" group-title="其它",CETV-1
+http://121.24.98.19:8090/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视财经" tvg-language="Chinese" tvg-logo="" group-title="其它",北京卫视财经
 http://123.118.60.109:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视科教" tvg-language="Chinese" tvg-logo="" group-title="其它",北京卫视科教
@@ -1578,12 +1314,16 @@ http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
 http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-language="Chinese" tvg-logo="" group-title="其它",第一剧场
 http://58.19.13.92:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动作影院" tvg-language="Chinese" tvg-logo="" group-title="其它",动作影院
+http://123.10.78.161:808/hls/97/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="都市频道" tvg-language="Chinese" tvg-logo="" group-title="其它",都市频道
+http://182.116.119.229:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法治频道" tvg-language="Chinese" tvg-logo="" group-title="其它",法治频道
 http://222.137.231.41:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法治频道" tvg-language="Chinese" tvg-logo="" group-title="其它",法治频道
-http://61.52.157.121:808/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="法治频道" tvg-language="Chinese" tvg-logo="" group-title="其它",法治频道
 http://61.52.157.104:808/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="法治频道" tvg-language="Chinese" tvg-logo="" group-title="其它",法治频道
+http://61.52.157.121:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="法治频道" tvg-language="Chinese" tvg-logo="" group-title="其它",法治频道
 http://222.137.229.221:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-language="Chinese" tvg-logo="" group-title="其它",凤凰中文
@@ -1594,28 +1334,18 @@ http://110.72.81.167:808/hls/83/index.m3u8
 http://113.9.161.31:88/hls/156/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-language="Chinese" tvg-logo="" group-title="其它",风云足球
 http://58.19.13.92:9901/tsfile/live/1034_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福建电视剧" tvg-language="Chinese" tvg-logo="" group-title="其它",福建电视剧
-http://36.249.150.135:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福建公共" tvg-language="Chinese" tvg-logo="" group-title="其它",福建公共
-http://36.249.150.135:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福建经济" tvg-language="Chinese" tvg-logo="" group-title="其它",福建经济
-http://36.249.150.135:9901/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-language="Chinese" tvg-logo="" group-title="其它",福建少儿
-http://36.249.150.135:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福建体育" tvg-language="Chinese" tvg-logo="" group-title="其它",福建体育
-http://36.249.150.135:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-language="Chinese" tvg-logo="" group-title="其它",福建新闻
-http://36.249.150.135:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="福建综合" tvg-language="Chinese" tvg-logo="" group-title="其它",福建综合
-http://36.249.150.135:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高清影院" tvg-language="Chinese" tvg-logo="" group-title="其它",高清影院
+http://123.10.78.161:808/hls/98/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-language="Chinese" tvg-logo="" group-title="其它",公共频道
 http://222.137.231.41:808/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-language="Chinese" tvg-logo="" group-title="其它",公共频道
-http://61.52.157.121:808/hls/23/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-language="Chinese" tvg-logo="" group-title="其它",公共频道
 http://61.52.157.104:808/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-language="Chinese" tvg-logo="" group-title="其它",公共频道
+http://61.52.157.121:808/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-language="Chinese" tvg-logo="" group-title="其它",公共频道
 http://222.137.229.221:808/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-language="Chinese" tvg-logo="" group-title="其它",公共频道
+http://182.116.119.229:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西都市" tvg-language="Chinese" tvg-logo="" group-title="其它",广西都市
 http://110.72.81.200:808/hls/204/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西都市" tvg-language="Chinese" tvg-logo="" group-title="其它",广西都市
@@ -1646,6 +1376,8 @@ http://121.24.98.235:8090/hls/28/index.m3u8
 http://121.24.98.35:8090/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北都市" tvg-language="Chinese" tvg-logo="" group-title="其它",河北都市
 http://121.24.98.125:8090/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北都市" tvg-language="Chinese" tvg-logo="" group-title="其它",河北都市
+http://121.24.98.19:8090/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-language="Chinese" tvg-logo="" group-title="其它",河北公共
 http://121.24.98.228:8090/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-language="Chinese" tvg-logo="" group-title="其它",河北公共
@@ -1654,6 +1386,8 @@ http://121.24.98.235:8090/hls/31/index.m3u8
 http://121.24.98.35:8090/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-language="Chinese" tvg-logo="" group-title="其它",河北公共
 http://121.24.98.125:8090/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-language="Chinese" tvg-logo="" group-title="其它",河北公共
+http://121.24.98.19:8090/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-language="Chinese" tvg-logo="" group-title="其它",河北农民
 http://121.24.98.228:8090/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-language="Chinese" tvg-logo="" group-title="其它",河北农民
@@ -1662,6 +1396,8 @@ http://121.24.98.235:8090/hls/27/index.m3u8
 http://121.24.98.35:8090/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-language="Chinese" tvg-logo="" group-title="其它",河北农民
 http://121.24.98.125:8090/hls/27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-language="Chinese" tvg-logo="" group-title="其它",河北农民
+http://121.24.98.19:8090/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-language="Chinese" tvg-logo="" group-title="其它",河北少儿科教
 http://121.24.98.228:8090/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-language="Chinese" tvg-logo="" group-title="其它",河北少儿科教
@@ -1670,6 +1406,8 @@ http://121.24.98.235:8090/hls/30/index.m3u8
 http://121.24.98.35:8090/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-language="Chinese" tvg-logo="" group-title="其它",河北少儿科教
 http://121.24.98.125:8090/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-language="Chinese" tvg-logo="" group-title="其它",河北少儿科教
+http://121.24.98.19:8090/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北生活" tvg-language="Chinese" tvg-logo="" group-title="其它",河北生活
 http://121.24.98.228:8090/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北生活" tvg-language="Chinese" tvg-logo="" group-title="其它",河北生活
@@ -1678,6 +1416,8 @@ http://121.24.98.235:8090/hls/26/index.m3u8
 http://121.24.98.35:8090/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北生活" tvg-language="Chinese" tvg-logo="" group-title="其它",河北生活
 http://121.24.98.125:8090/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北生活" tvg-language="Chinese" tvg-logo="" group-title="其它",河北生活
+http://121.24.98.19:8090/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北收视指南" tvg-language="Chinese" tvg-logo="" group-title="其它",河北收视指南
 http://121.24.98.228:8090/hls/44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北收视指南" tvg-language="Chinese" tvg-logo="" group-title="其它",河北收视指南
@@ -1686,6 +1426,8 @@ http://121.24.98.235:8090/hls/44/index.m3u8
 http://121.24.98.35:8090/hls/44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北收视指南" tvg-language="Chinese" tvg-logo="" group-title="其它",河北收视指南
 http://121.24.98.125:8090/hls/44/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北收视指南" tvg-language="Chinese" tvg-logo="" group-title="其它",河北收视指南
+http://121.24.98.19:8090/hls/44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北影视" tvg-language="Chinese" tvg-logo="" group-title="其它",河北影视
 http://121.24.98.228:8090/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北影视" tvg-language="Chinese" tvg-logo="" group-title="其它",河北影视
@@ -1694,40 +1436,78 @@ http://121.24.98.235:8090/hls/29/index.m3u8
 http://121.24.98.35:8090/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北影视" tvg-language="Chinese" tvg-logo="" group-title="其它",河北影视
 http://121.24.98.125:8090/hls/29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北影视" tvg-language="Chinese" tvg-logo="" group-title="其它",河北影视
+http://121.24.98.19:8090/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-language="Chinese" tvg-logo="" group-title="其它",黑莓电影
 http://113.9.161.31:88/hls/119/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南电视剧" tvg-language="Chinese" tvg-logo="" group-title="其它",河南电视剧
 http://42.225.145.233:8089/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南电视剧频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南电视剧频道
+http://123.10.78.161:808/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南都市" tvg-language="Chinese" tvg-logo="" group-title="其它",河南都市
 http://42.225.145.233:8089/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南都市频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南都市频道
+http://123.10.78.161:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南法治" tvg-language="Chinese" tvg-logo="" group-title="其它",河南法治
 http://42.225.145.233:8089/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南法制频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南法制频道
+http://182.116.119.229:808/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南法治频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南法治频道
+http://123.10.78.161:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南公共" tvg-language="Chinese" tvg-logo="" group-title="其它",河南公共
 http://42.225.145.233:8089/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南公共频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南公共频道
+http://123.10.78.161:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南国际" tvg-language="Chinese" tvg-logo="" group-title="其它",河南国际
 http://222.137.231.41:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南国际" tvg-language="Chinese" tvg-logo="" group-title="其它",河南国际
-http://61.52.157.121:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河南国际" tvg-language="Chinese" tvg-logo="" group-title="其它",河南国际
 http://61.52.157.104:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南国际" tvg-language="Chinese" tvg-logo="" group-title="其它",河南国际
+http://61.52.157.121:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南国际" tvg-language="Chinese" tvg-logo="" group-title="其它",河南国际
 http://222.137.229.221:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南国际频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南国际频道
+http://123.10.78.161:808/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南梨园频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南梨园频道
+http://123.10.78.161:808/hls/27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南梨园频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南梨园频道
+http://182.116.119.229:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南民生" tvg-language="Chinese" tvg-logo="" group-title="其它",河南民生
 http://42.225.145.233:8089/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南民生频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南民生频道
+http://123.10.78.161:808/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南文物宝库" tvg-language="Chinese" tvg-logo="" group-title="其它",河南文物宝库
+http://123.10.78.161:808/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南武术世界" tvg-language="Chinese" tvg-logo="" group-title="其它",河南武术世界
+http://123.10.78.161:808/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南新闻" tvg-language="Chinese" tvg-logo="" group-title="其它",河南新闻
 http://42.225.145.233:8089/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南新闻频道" tvg-language="Chinese" tvg-logo="" group-title="其它",河南新闻频道
+http://123.10.78.161:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="淮阴综合频道" tvg-language="Chinese" tvg-logo="" group-title="其它",淮阴综合频道
 http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="" tvg-name="湖北经视" tvg-language="Chinese" tvg-logo="" group-title="其它",湖北经视
 http://113.57.21.233:8666/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北经视" tvg-language="Chinese" tvg-logo="" group-title="其它",湖北经视
+http://113.57.150.190:9000/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北垄上" tvg-language="Chinese" tvg-logo="" group-title="其它",湖北垄上
 http://113.57.21.233:8666/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北垄上" tvg-language="Chinese" tvg-logo="" group-title="其它",湖北垄上
+http://113.57.150.190:9000/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北影视" tvg-language="Chinese" tvg-logo="" group-title="其它",湖北影视
 http://113.57.21.233:8666/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北影视" tvg-language="Chinese" tvg-logo="" group-title="其它",湖北影视
+http://113.57.150.190:9000/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="家庭影院" tvg-language="Chinese" tvg-logo="" group-title="其它",家庭影院
+http://123.10.78.161:808/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="精彩体育" tvg-language="Chinese" tvg-logo="" group-title="其它",精彩体育
 http://113.9.161.31:88/hls/304/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-language="Chinese" tvg-logo="" group-title="其它",经典电影
 http://113.57.21.233:8666/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-language="Chinese" tvg-logo="" group-title="其它",经典电影
+http://113.57.150.190:9000/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-language="Chinese" tvg-logo="" group-title="其它",金鹰纪实
+http://123.10.78.161:808/hls/72/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-language="Chinese" tvg-logo="" group-title="其它",金鹰纪实
 http://58.19.13.92:9901/tsfile/live/1032_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-language="Chinese" tvg-logo="" group-title="其它",纪实人文
@@ -1738,36 +1518,38 @@ http://121.24.98.235:8090/hls/108/index.m3u8
 http://121.24.98.35:8090/hls/108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-language="Chinese" tvg-logo="" group-title="其它",纪实人文
 http://121.24.98.125:8090/hls/108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-language="Chinese" tvg-logo="" group-title="其它",纪实人文
+http://121.24.98.19:8090/hls/108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-language="Chinese" tvg-logo="" group-title="其它",快乐垂钓
 http://58.19.13.92:9901/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
 http://121.27.126.114:8899/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.86:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.168:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.191:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.144:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.64:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.51:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.56:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
 http://121.27.126.184:8899/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
 http://121.27.126.187:8899/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.144:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.191:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.168:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.51:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.64:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.86:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.56:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.189:8899/hls/68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
 http://121.27.126.199:8899/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
+http://121.27.126.174:8899/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
 http://121.27.126.146:8899/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
-http://121.27.126.174:8899/hls/68/index.m3u8
+http://121.27.126.189:8899/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
 http://121.27.126.192:8899/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="廊坊公共" tvg-language="Chinese" tvg-logo="" group-title="其它",廊坊公共
@@ -1776,44 +1558,32 @@ http://121.27.126.103:8899/hls/68/index.m3u8
 http://124.165.251.82:9999/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁北方" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁北方
 http://113.239.88.150:8818/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁北方" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁北方
-http://113.231.98.189:8818/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁北方" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁北方
-http://42.176.182.11:8818/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁公共" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁公共
 http://113.239.88.150:8818/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁公共" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁公共
-http://113.231.98.189:8818/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁公共" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁公共
-http://42.176.182.11:8818/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁经济" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁经济
 http://113.239.88.150:8818/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁经济" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁经济
-http://113.231.98.189:8818/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁经济" tvg-language="Chinese" tvg-logo="" group-title="其它",辽宁经济
-http://42.176.182.11:8818/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="梨园频道" tvg-language="Chinese" tvg-logo="" group-title="其它",梨园频道
 http://222.137.231.41:808/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="梨园频道" tvg-language="Chinese" tvg-logo="" group-title="其它",梨园频道
-http://61.52.157.121:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="梨园频道" tvg-language="Chinese" tvg-logo="" group-title="其它",梨园频道
 http://61.52.157.104:808/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="梨园频道" tvg-language="Chinese" tvg-logo="" group-title="其它",梨园频道
+http://61.52.157.121:808/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="梨园频道" tvg-language="Chinese" tvg-logo="" group-title="其它",梨园频道
 http://222.137.229.221:808/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龙泉新闻综" tvg-language="Chinese" tvg-logo="" group-title="其它",龙泉新闻综
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="吕梁二台" tvg-language="Chinese" tvg-logo="" group-title="其它",吕梁二台
 http://124.165.251.82:9999/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="吕梁一台" tvg-language="Chinese" tvg-logo="" group-title="其它",吕梁一台
-http://124.165.251.82:9999/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民生频道" tvg-language="Chinese" tvg-logo="" group-title="其它",民生频道
 http://222.137.231.41:808/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民生频道" tvg-language="Chinese" tvg-logo="" group-title="其它",民生频道
-http://61.52.157.121:808/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="民生频道" tvg-language="Chinese" tvg-logo="" group-title="其它",民生频道
 http://61.52.157.104:808/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民生频道" tvg-language="Chinese" tvg-logo="" group-title="其它",民生频道
+http://61.52.157.121:808/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民生频道" tvg-language="Chinese" tvg-logo="" group-title="其它",民生频道
 http://222.137.229.221:808/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="民生频道" tvg-language="Chinese" tvg-logo="" group-title="其它",民生频道
+http://182.116.119.229:808/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="密云电视" tvg-language="Chinese" tvg-logo="" group-title="其它",密云电视
 http://123.118.60.109:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="衢江新闻综合" tvg-language="Chinese" tvg-logo="" group-title="其它",衢江新闻综合
@@ -1828,18 +1598,18 @@ http://121.24.98.235:8090/hls/77/index.m3u8
 http://121.24.98.35:8090/hls/77/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海东方" tvg-language="Chinese" tvg-logo="" group-title="其它",上海东方
 http://121.24.98.125:8090/hls/77/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海东方" tvg-language="Chinese" tvg-logo="" group-title="其它",上海东方
+http://121.24.98.19:8090/hls/77/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上虞文化影院" tvg-language="Chinese" tvg-logo="" group-title="其它",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="上虞新商都" tvg-language="Chinese" tvg-logo="" group-title="其它",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="上虞新闻综合" tvg-language="Chinese" tvg-logo="" group-title="其它",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-language="Chinese" tvg-logo="" group-title="其它",汕头综合
+http://211.97.63.3:801/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="沈阳新闻" tvg-language="Chinese" tvg-logo="" group-title="其它",沈阳新闻
 http://113.239.88.150:8818/hls/23/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="沈阳新闻" tvg-language="Chinese" tvg-logo="" group-title="其它",沈阳新闻
-http://113.231.98.189:8818/hls/23/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="沈阳新闻" tvg-language="Chinese" tvg-logo="" group-title="其它",沈阳新闻
-http://42.176.182.11:8818/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="松阳综合频道" tvg-language="Chinese" tvg-logo="" group-title="其它",松阳综合频道
 http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="遂昌综合频道" tvg-language="Chinese" tvg-logo="" group-title="其它",遂昌综合频道
@@ -1855,26 +1625,34 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新农村频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新农村频道
 http://222.137.231.41:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新农村频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新农村频道
-http://61.52.157.121:808/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新农村频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新农村频道
 http://61.52.157.104:808/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新农村频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新农村频道
+http://123.10.78.161:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新农村频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新农村频道
+http://61.52.157.121:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新农村频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新农村频道
 http://222.137.229.221:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新闻频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新闻频道
 http://222.137.231.41:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新闻频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新闻频道
-http://61.52.157.121:808/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新闻频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新闻频道
 http://61.52.157.104:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新闻频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新闻频道
+http://61.52.157.121:808/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新闻频道" tvg-language="Chinese" tvg-logo="" group-title="其它",新闻频道
 http://222.137.229.221:808/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="移动戏曲" tvg-language="Chinese" tvg-logo="" group-title="其它",移动戏曲
+http://123.10.78.161:808/hls/74/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="永嘉新闻综合" tvg-language="Chinese" tvg-logo="" group-title="其它",永嘉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="朝阳融媒" tvg-language="Chinese" tvg-logo="" group-title="其它",朝阳融媒
 http://123.118.60.109:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育" tvg-language="Chinese" tvg-logo="" group-title="其它",中国教育
 http://113.57.21.233:8666/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中国教育" tvg-language="Chinese" tvg-logo="" group-title="其它",中国教育
+http://113.57.150.190:9000/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="诸暨新闻综合" tvg-language="Chinese" tvg-logo="" group-title="其它",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="足球频道" tvg-language="Chinese" tvg-logo="" group-title="其它",足球频道
 http://113.57.21.233:8666/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="足球频道" tvg-language="Chinese" tvg-logo="" group-title="其它",足球频道
+http://113.57.150.190:9000/tsfile/live/1019_1.m3u8
