@@ -68,6 +68,8 @@ CCTV 12,http://121.24.98.19:8090/hls/20/index.m3u8
 CCTV 12,http://113.57.103.216:9000/tsfile/live/0012_1.m3u8
 CCTV 12,http://221.205.170.157:9999/tsfile/live/0012_1.m3u8
 CCTV 12,http://121.24.98.205:8090/hls/20/index.m3u8
+CCTV 13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
+CCTV 13,http://121.24.98.19:8090/hls/21/index.m3u8
 CCTV 13,http://121.24.98.19:8090/hls/21/index.m3u8
 CCTV 13,http://121.24.98.205:8090/hls/21/index.m3u8
 CCTV 13,http://1.30.18.218:20080/hls/13/index.m3u8
