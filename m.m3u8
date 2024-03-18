@@ -336,6 +336,8 @@ http://222.188.68.38:8888/newlive/live/hls/41/live.m3u8
 http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
 http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",北京卫视
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
 http://101.71.176.182:8888/newlive/live/hls/31/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",重庆卫视
@@ -575,6 +577,8 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",青海卫视
 http://60.211.167.226:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
 http://222.173.147.142:8888/newlive/live/hls/26/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",山东卫视
 http://113.87.48.183:808/hls/33/index.m3u8
@@ -686,7 +690,3 @@ http://addmin.x3322.net:8888/hls/18/index.m3u8
 http://222.188.68.38:8888/newlive/live/hls/31/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" group-title="卫视",浙江卫视
 http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视 (1080P)" tvg-language="Chinese" tvg-logo="" group-title="其它",北京卫视 (1080P)
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视 (1080P)" tvg-language="Chinese" tvg-logo="" group-title="其它",山东卫视 (1080P)
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
