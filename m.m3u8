@@ -71,32 +71,32 @@ http://222.188.68.38:8888/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 4
 http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://101.71.176.182:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://222.173.147.142:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://59.55.35.92:20000/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://222.173.147.142:8888/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://220.194.178.58:8888/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://60.208.113.114:8001/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://61.138.128.226:19901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://qdxiehou.7766.org:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://120.7.86.15:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
 http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
+http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
+http://101.71.176.182:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
+http://222.173.147.142:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
+http://60.208.113.114:8001/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
+http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
+http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 5+
 http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-language="Chinese" tvg-logo="" group-title="央视",CCTV 6
 http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
